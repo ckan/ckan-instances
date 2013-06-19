@@ -1,0 +1,16 @@
+<div class="facet">
+	<a href="#" class="root{{#if values}} has-dropdown{{/if}}">
+		{{label}}
+		{{#if values}}
+			<i class="icon-chevron-up"></i>
+			<i class="icon-chevron-down"></i>
+		{{/if}}
+	</a>
+	{{#if values}}
+	<ul>
+		{{#each values}}
+			<li><a href="#{{../label}}={{this}}" class="faceter" data-facet="{{this}}">{{this}}</a></li>
+		{{/each}}
+	</ul>
+	{{/if}}
+</div>

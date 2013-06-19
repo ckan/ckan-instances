@@ -1,0 +1,103 @@
+[
+	{
+		"id": "data_gv_at",
+		"url": "http://data.gv.at/",
+		"title": "Data.gv.at",
+		"description": "Austria’s national data portal Offene Daten Österreich contains both government data and data harvested from a number of city portals, including the CKAN portals at Linz and Graz listed below.",
+		"locale": "Austria",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "National Government" }
+		]
+	},
+	{
+		"id": "dados_gov_br",
+		"url": "http://dados.gov.br/",
+		"title": "Dados.gov.br",
+		"description": "The Brazilian national portal at http://dados.gov.br/ was built using a highly participative process, with planning and development meetings open to all interested citizens. It used CKAN in line with government policy to use free and open-source software where possible.",
+		"locale": "Brazil",
+		"facets": [
+			{ "key": "Region", "value": "South America" },
+			{ "key": "Type", "value": "National Government" }
+		]
+	},
+	{
+		"id": "govdata_de",
+		"url": "http://govdata.de/",
+		"title": "Govdata.de",
+		"description": "govdata.de is a federal data portal for Germany, which went live in February 2013. It includes data published by the federal government as well as data harvested from regional and city portals using CKAN’s harvesting capabilities. It aims to increase the amount of data released under a fully open licence by 2014.",
+		"locale": "Germany",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "National Government" }
+		]
+	},
+	{
+		"id": "data_overheid_nl",
+		"url": "http://data.overheid.nl/",
+		"title": "Data.overheid.nl",
+		"description": "The government of the Netherlands publishes its data at data.overheid.nl. The site is built in Drupal and uses CKAN for the underlying catalogue.",
+		"locale": "Netherlands",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "National Government" }
+		]
+	},
+	{
+		"id": "data_norge_no",
+		"url": "http://data.norge.no/",
+		"title": "Data.norge.no",
+		"description": "The Norwegian government’s open data portal, launched in December 2010, includes data from its company register, leading the OpenCorporates blog to put Norway at the top of its Access to Company Data scoreboard.",
+		"locale": "Norway",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "National Government" }
+		]
+	},
+	{
+		"id": "data_gov_sk",
+		"url": "http://data.gov.sk/",
+		"title": "Data.gov.sk",
+		"description": "The Slovak open data portal was created under the Initiative for Open Governance, which aims to improve governance through increased transparency, efficiency and accountability. It was launched in 2013.",
+		"locale": "Slovakia",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "National Government" }
+		]
+	},
+	{
+		"id": "data_gov_uk",
+		"featured": true,
+		"url": "http://data.gov.uk/",
+		"title": "Data.gov.uk",
+		"description": "The UK’s data.gov.uk was one of the first government data portals on its launch in 2009, using Drupal to build the site and CKAN as a back-end. It was relaunched in June 2012 with data search pages now presented directly by CKAN.",
+		"locale": "United Kingdom",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "National Government" }
+		]
+	},
+	{
+		"id": "catalogodatos_gub_uy",
+		"url": "http://catalogodatos.gub.uy/",
+		"title": "Catalogodatos.gub.uy",
+		"description": "Uruguay’s national open data portal catalogodatos.gub.uy was launched on 5 December 2012. National and local government agencies can add datsets to the catalogue.",
+		"locale": "Uruguay",
+		"facets": [
+			{ "key": "Region", "value": "South America" },
+			{ "key": "Type", "value": "National Government" }
+		]
+	},
+	{
+		"id": "data_gov",
+		"featured": true,
+		"url": "http://data.gov/",
+		"title": "Data.gov",
+		"description": "The US government announced in January 2013 that they were moving to CKAN for their open data catalogue, combining datasets previously published in different places. The relaunch went live in May 2013.",
+		"locale": "USA",
+		"facets": [
+			{ "key": "Region", "value": "North America" },
+			{ "key": "Type", "value": "National Government" }
+		]
+	}
+]

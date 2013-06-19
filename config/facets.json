@@ -1,0 +1,25 @@
+[
+	{
+		"label": "Featured"
+	},
+	{
+		"label": "Region",
+		"values": [
+			"Europe",
+			"Asia",
+			"Africa",
+			"South America",
+			"North America",
+			"Australasia"
+		]
+	},
+	{
+		"label": "Type",
+		"values": [
+			"National Government",
+			"Local / Regional Government",
+			"Organisations",
+			"Community"
+		]
+	}
+]
