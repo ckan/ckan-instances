@@ -102,8 +102,8 @@
 		}
 
 		$(window).on('hashchange', hash)
-		loader("template", ['instance', 'facet'], '/templates/{{id}}.hbs', 'text');
-		loader("config", ['instances', 'facets'], '/config/{{id}}.json', 'json');
+		loader("template", ['instance', 'facet'], 'templates/{{id}}.hbs', 'text');
+		loader("config", ['instances', 'facets'], 'config/{{id}}.json', 'json');
 
 	});
 })(jQuery, window);
