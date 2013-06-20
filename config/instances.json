@@ -100,6 +100,17 @@
 		]
 	},
 	{
+		"id": "opingogn_is",
+		"url": "http://opingogn.is/",
+		"title": "Opin Gögn",
+		"description": "The Icelandic government releases open government data on an experimental CKAN platform. All public agencies and ministries in Iceland can get access and publish data and it is made available at both opingogn.is and gogn.island.is.",
+		"locale": "Iceland",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "National Government" }
+		]
+	},
+	{
 		"featured": true,
 		"id": "data_buenosaires_gob_ar",
 		"url": "http://data.buenosaires.gob.ar/",
