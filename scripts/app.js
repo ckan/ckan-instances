@@ -49,8 +49,19 @@
 		function complete() {
 			// Remove the loading status
 			$('body').removeClass('loading');
+			var instances = data('instances');
+			// Sort the instanes alphabetical style
+			instances.sort(function(a, b) {
+				var a_title = a.title.toLowerCase();
+				var b_title = b.title.toLowerCase();
+				if (a_title == b_title) {
+					return 0;
+				} else {
+					return ( a_title < b_title ) ? -1 : 1;
+				}
+			});
 			// Setup the instances
-			$.each(data('instances'), function() {
+			$.each(instances, function() {
 				$(template('instance', this)).appendTo('#instances');
 			});
 			$('#instances').packery({
