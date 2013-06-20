@@ -114,7 +114,13 @@
 	{
 		"id": "data_qld_gov_au",
 		"url": "http://data.qld.gov.au",
-		"description": "The state of Queensland launched the first governmental CKAN portal in Australia, Queensland Government data, in December 2012, with the help of the Open Knowledge Foundation and XVT Solutions, a local IT firm."
+		"title": "Queensland Government data",
+		"description": "The state of Queensland launched the first governmental CKAN portal in Australia, Queensland Government data, in December 2012, with the help of the Open Knowledge Foundation and XVT Solutions, a local IT firm.",
+		"locale": "Queensland, Australia",
+		"facets": [
+			{ "key": "Region", "value": "Australasia" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
 	},
 	{
 		"id": "data_sa_gov_au",
@@ -164,7 +170,12 @@
 		"id": "daten_hamburg_de",
 		"url": "http://daten.hamburg.de/",
 		"title": "Open Data Portal Hamburg",
-		"description": "The city of Hamburg in Germany launched a beta version of their data portal in February 2013. The portal uses CKAN on the back-end. The API is available at opendata.hamburg.de."
+		"description": "The city of Hamburg in Germany launched a beta version of their data portal in February 2013. The portal uses CKAN on the back-end. The API is available at opendata.hamburg.de.",
+		"locale": "Hamburg, Germany",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
 	},
 	{
 		"id": "www_daten_rlp_de",
