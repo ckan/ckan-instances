@@ -365,7 +365,7 @@ table {
 }
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  background-color: #f6f6f6;
+  background-color: #ffffff;
   font-size: 14px;
   line-height: 1.4;
 }
@@ -383,7 +383,7 @@ body {
   margin-left: -50px;
   padding: 5px 0;
   text-align: center;
-  color: #f6f6f6;
+  color: #ffffff;
   background-color: #5090b7;
   font-weight: bold;
   -webkit-border-radius: 4px;
@@ -414,7 +414,7 @@ body {
 #facets .label {
   float: left;
   margin-right: 10px;
-  color: #717171;
+  color: #737373;
   padding: 5px 0;
 }
 #facets .facet {
@@ -428,7 +428,7 @@ body {
   text-decoration: none;
   font-weight: bold;
   color: #444444;
-  background-color: #dddddd;
+  background-color: #e6e6e6;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
@@ -443,7 +443,7 @@ body {
   display: inline;
 }
 #facets .facet a.root:hover {
-  color: #f6f6f6;
+  color: #ffffff;
   background-color: #5090b7;
 }
 #facets .facet ul {
@@ -473,11 +473,11 @@ body {
 }
 #facets .facet ul li a.active,
 #facets .facet ul li a:hover {
-  color: #f6f6f6;
+  color: #ffffff;
   background-color: #5090b7;
 }
 #facets .facet.active a.root {
-  color: #f6f6f6;
+  color: #ffffff;
   background-color: #5090b7;
 }
 #facets .facet.active a.root .icon-chevron-up {
@@ -490,7 +490,7 @@ body {
   display: block;
 }
 #facets .facet.selected a.root {
-  color: #f6f6f6;
+  color: #ffffff;
   background-color: #5090b7;
 }
 #instances .instance {
@@ -536,7 +536,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  border: 1px solid #d0d0d0;
+  border: 1px solid #d9d9d9;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
