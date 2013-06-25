@@ -493,6 +493,10 @@ body {
   color: #ffffff;
   background-color: #5090b7;
 }
+#facets.faceting .selected a.root {
+  color: #ffffff;
+  background-color: #5090b7;
+}
 #instances .instance {
   position: relative;
   float: left;

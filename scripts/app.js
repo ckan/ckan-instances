@@ -79,37 +79,41 @@
 			hash();
 		}
 
-		function featured() {
-			$('#facets .facet:first').addClass('active');
-			$('#facets .facet').removeClass('selected');
-			$('#facets .faceter').removeClass('active');
-			$('#instances .instance').hide();
-			$('#instances .instance.featured').show();
-			$('#instances').packery();
-		}
-
 		function dropdown(event) {
 			event.preventDefault();
 			var parent = $(this).parent();
 			var method = parent.hasClass('active') ? 'removeClass' : 'addClass';
 			$('#facets .facet').removeClass('active');
 			parent[method]('active');
+			$('#facets')[method]('faceting');
 		}
 
 		function hash() {
 			var hash = window.location.hash;
 			if (!hash) {
-				featured();
-			} else {
-				var bits = hash.substr(1).split('=');
-				var $this = $('[data-facet^="'+bits[1]+'"]');
-				$('#facets .facet, #facets .faceter').removeClass('active');
-				$('#instances .instance').hide();
-				$this.addClass('active');
-				$('.instance[data-facet-'+bits[0]+'^="'+bits[1]+'"]').show();
-				$this.parents('.facet').addClass('selected');
-				$('#instances').packery();
+				hash = '#Featured=Featured';
 			}
+			var bits = hash.substr(1).split('=');
+			var $this = $('[data-facet^="'+bits[1]+'"]');
+			var parent = $this.parents('.facet');
+
+			$('.facet, .faceter').removeClass('active selected');
+			$('[data-facet-root]').each(function() {
+				$(this).text($(this).data('facet-root'));
+			});
+
+			if (bits[1] == 'All') {
+				$('#instances .instance').show();
+			} else {
+				$('#instances .instance').hide();
+				$('.instance[data-facet-'+bits[0]+'^="'+bits[1]+'"]').show();
+			}
+
+			$('.root span', parent).text(bits[1]);
+			parent.addClass('selected');
+			$this.addClass('active');
+
+			$('#instances').packery();
 		}
 
 		$(window).on('hashchange', hash)

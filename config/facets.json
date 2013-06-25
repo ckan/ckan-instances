@@ -1,6 +1,10 @@
 [
 	{
-		"label": "Featured"
+		"label": "Featured",
+		"values": [
+			"Featured",
+			"All"
+		]
 	},
 	{
 		"label": "Region",

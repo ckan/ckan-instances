@@ -65,13 +65,13 @@
 		]
 	},
 	{
-		"featured": true,
 		"id": "data_gov_uk",
 		"url": "http://data.gov.uk",
 		"title": "Data.gov.uk",
 		"description": "The UK’s http://data.gov.uk/ was one of the first government data portals on its launch in 2009, using Drupal to build the site and CKAN as a back-end. It was relaunched in June 2012 with data search pages now presented directly by CKAN.",
 		"locale": "United Kingdom",
 		"facets": [
+			{ "key": "Featured", "value": "Featured" },
 			{ "key": "Region", "value": "Europe" },
 			{ "key": "Type", "value": "National Government" }
 		]
@@ -88,13 +88,13 @@
 		]
 	},
 	{
-		"featured": true,
 		"id": "data_gov",
 		"url": "http://data.gov",
 		"title": "Data.gov",
 		"description": "The US government announced in January 2013 that they were moving to CKAN for their open data catalogue, combining datasets previously published in different places. The relaunch went live in May 2013.",
 		"locale": "USA",
 		"facets": [
+			{ "key": "Featured", "value": "Featured" },
 			{ "key": "Region", "value": "North America" },
 			{ "key": "Type", "value": "National Government" }
 		]
@@ -111,13 +111,13 @@
 		]
 	},
 	{
-		"featured": true,
 		"id": "data_buenosaires_gob_ar",
 		"url": "http://data.buenosaires.gob.ar/",
 		"title": "Buenos Aires Data",
 		"description": "Buenos Aires Data was launched by the Buenos Aires city government in March 2012, running CKAN 1.5. It was upgraded to version 1.7 in July 2012.",
 		"locale": "Buenos Aires, Argentina",
 		"facets": [
+			{ "key": "Featured", "value": "Featured" },
 			{ "key": "Region", "value": "South America" },
 			{ "key": "Type", "value": "Local / Regional Government" }
 		]
