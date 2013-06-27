@@ -3,7 +3,7 @@
 		"id": "data_gv_at",
 		"url": "http://data.gv.at",
 		"title": "data.gv.at",
-		"description": "Austria’s national data portal Offene Daten Österreich contains both government data and data harvested from a number of city portals, including the CKAN portals at Linz and Graz listed below.",
+		"description": "Austria’s national data portal Offene Daten Österreich contains both government data and data harvested from a number of city portals, including the CKAN portals at Linz and Graz.",
 		"locale": "Austria",
 		"facets": [
 			{ "key": "Region", "value": "Europe" },
@@ -373,6 +373,116 @@
 		"facets": [
 			{ "key": "Region", "value": "Europe" },
 			{ "key": "Type", "value": "Local / Regional Government" }
+		]
+	},
+	{
+		"id": "data_linz_gv_at",
+		"url": "http://data.linz.gv.at/",
+		"title": "Linz Open Data",
+		"description": "Linz Open Data is part of the Open Commons Region Linz, a project to make the region’s digital public goods freely accessible. It offers statistical, mapping, election, transport and other data. The site is built in OpenCms with CKAN as a back-end, while also exposing the CKAN interface directly at ckan.data.linz.gv.at. The same architecture is used by Open Government Data Graz. Both are harvested by the Austrian national open data portal.",
+		"locale": "Linz, Austria",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
+	},
+	{
+		"id": "data_graz_gv_at",
+		"url": "http://data.graz.gv.at/",
+		"title": "Graz Open Data",
+		"description": "Graz Open Data is part of the Open Commons Region Graz, a project to make the region’s digital public goods freely accessible. It offers statistical, mapping, election, transport and other data.",
+		"locale": "Graz, Austria",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
+	},
+	{
+		"id": "thedatahub_org",
+		"url": "http://thedatahub.org/",
+		"title": "the Data Hub",
+		"description": "",
+		"locale": "Worldwide",
+		"facets": [
+			{ "key": "Region", "value": "Worldwide" },
+			{ "key": "Type", "value": "Community" }
+		]
+	},
+	{
+		"id": "offenedaten_de",
+		"url": "http://offenedaten.de/",
+		"title": "OffeneDaten.de",
+		"description": "",
+		"locale": "Germany",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Community" }
+		]
+	},
+	{
+		"id": "opencolorado_org",
+		"url": "http://opencolorado.org/",
+		"title": "OpenColorado",
+		"description": "",
+		"locale": "Colorado, USA",
+		"facets": [
+			{ "key": "Region", "value": "North America" },
+			{ "key": "Type", "value": "Community" }
+		]
+	},
+	{
+		"id": "www_opendatahub_it",
+		"url": "http://www.opendatahub.it/",
+		"title": "Open Data HUB Italia",
+		"description": "",
+		"locale": "Italy",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Community" }
+		]
+	},
+	{
+		"id": "open_data_okfn_gr",
+		"url": "http://open-data.okfn.gr/",
+		"title": "OKFN LOCAL: Greek Open Data",
+		"description": "",
+		"locale": "Greece",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Community" }
+		]
+	},
+	{
+		"id": "www_nosdonnees_fr",
+		"url": "http://www.nosdonnees.fr/",
+		"title": "NosDonnées.fr",
+		"description": "",
+		"locale": "France",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Community" }
+		]
+	},
+	{
+		"id": "datagov_ru",
+		"url": "http://datagov.ru/",
+		"title": "DataGov.ru",
+		"description": "",
+		"locale": "Russia",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Community" }
+		]
+	},
+	{
+		"id": "datacatalogs_org",
+		"url": "http://datacatalogs.org/",
+		"title": "datacatalogs.org",
+		"description": "",
+		"locale": "Worldwide",
+		"facets": [
+			{ "key": "Region", "value": "Worldwide" },
+			{ "key": "Type", "value": "Community" }
 		]
 	}
 ]
