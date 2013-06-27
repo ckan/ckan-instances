@@ -363,5 +363,16 @@
 			{ "key": "Region", "value": "Worldwide" },
 			{ "key": "Type", "value": "Organisations" }
 		]
+	},
+	{
+		"id": "www_odaa_dk",
+		"url": "http://www.odaa.dk/",
+		"title": "Open Data Aarhus",
+		"description": "odaa.dk is a local and regional open data portal for Aarhus and The Central Region of Denmark. It was launched in betaversion in April 2013. The aim is to realease data from the Municipality, the Region and the University – realtime data with automated harvesting when possible. It is built in Drupal and CKAN.",
+		"locale": "Aarhus, Denmark",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
 	}
 ]
