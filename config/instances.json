@@ -484,5 +484,49 @@
 			{ "key": "Region", "value": "Worldwide" },
 			{ "key": "Type", "value": "Community" }
 		]
+	},
+	{
+		"id": "africaopendata_org",
+		"url": "http://africaopendata.org/",
+		"title": "Africa Open Data",
+		"description": "",
+		"locale": "Africa",
+		"facets": [
+			{ "key": "Region", "value": "Africa" },
+			{ "key": "Type", "value": "Community" }
+		]
+	},
+	{
+		"id": "data_openva_com",
+		"url": "http://data.openva.com/",
+		"title": "Open Virginia",
+		"description": "",
+		"locale": "Virginia, USA",
+		"facets": [
+			{ "key": "Region", "value": "North America" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
+	},
+	{
+		"id": "data_codeforhouston_com",
+		"url": "http://data.codeforhouston.com/",
+		"title": "Houston Data Portal",
+		"description": "",
+		"locale": "Houston, USA",
+		"facets": [
+			{ "key": "Region", "value": "North America" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
+	},
+	{
+		"id": "datos_codeandomexico_org",
+		"url": "http://datos.codeandomexico.org/",
+		"title": "Codeando México",
+		"description": "",
+		"locale": "Mexico",
+		"facets": [
+			{ "key": "Region", "value": "North America" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
 	}
 ]
