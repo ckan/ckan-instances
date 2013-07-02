@@ -4,6 +4,7 @@
 		var loaded = 0;
 		var length = 0;
 		var store = [];
+		var facet = 'Featured=Featured';
 
 		function loader(type, what, where, data_type) {
 			length += what.length;
@@ -76,8 +77,9 @@
 				$(template('facet', this)).appendTo('#facets');
 			});
 			$('#facets .has-dropdown').on('click', dropdown);
+			$('#facets .faceter').on('click', filter);
 
-			hash();
+			navigate();
 		}
 
 		function dropdown(event) {
@@ -89,12 +91,14 @@
 			$('#facets')[method]('faceting');
 		}
 
-		function hash() {
-			var hash = window.location.hash;
-			if (!hash) {
-				hash = '#Featured=Featured';
-			}
-			var bits = hash.substr(1).split('=');
+		function filter(event) {
+			event.preventDefault();
+			facet = $(this).data('filter');
+			navigate();
+		}
+
+		function navigate() {
+			var bits = facet.split('=');
 			var $this = $('[data-facet^="'+bits[1]+'"]');
 			var parent = $this.parents('.facet');
 			var total;
@@ -122,7 +126,6 @@
 			$('#instances').packery();
 		}
 
-		$(window).on('hashchange', hash)
 		loader("template", ['instance', 'facet'], 'templates/{{id}}.hbs', 'text');
 		loader("config", ['instances', 'facets'], 'config/{{id}}.json', 'json');
 
