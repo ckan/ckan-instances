@@ -97,6 +97,7 @@
 			var bits = hash.substr(1).split('=');
 			var $this = $('[data-facet^="'+bits[1]+'"]');
 			var parent = $this.parents('.facet');
+			var total;
 
 			$('.facet, .faceter').removeClass('active selected');
 			$('[data-facet-root]').each(function() {
@@ -105,11 +106,15 @@
 
 			if (bits[1] == 'All') {
 				$('#instances .instance').show();
+				total = $('#instances .instance').length;
 			} else {
 				$('#instances .instance').hide();
-				$('.instance[data-facet-'+bits[0]+'^="'+bits[1]+'"]').show();
+				var to_show = $('.instance[data-facet-'+bits[0]+'^="'+bits[1]+'"]');
+				to_show.show();
+				total = to_show.length;
 			}
 
+			$('#total').text(total + ' ' + bits[1].toLowerCase() + ' instance' + ( ( total != 1 ) ? 's' : '' ) );
 			$('.root span', parent).text(bits[1]);
 			parent.addClass('selected');
 			$this.addClass('active');
