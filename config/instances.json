@@ -136,9 +136,9 @@
 	{
 		"id": "data_sa_gov_au",
 		"url": "http://data.sa.gov.au/",
-		"title": "Queensland Government data",
+		"title": "South Australian Government Data Directory",
 		"description": "The South Australia Government Data Directory, built by the OKF together with the Government of the state of South Australia, was launched in May 2013. It makes available data from over 25 government bodies and departments.",
-		"locale": "Queensland, Australia",
+		"locale": "South Australia, Australia",
 		"facets": [
 			{ "key": "Region", "value": "Australasia" },
 			{ "key": "Type", "value": "Local / Regional Government" }
