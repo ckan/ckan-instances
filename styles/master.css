@@ -396,6 +396,12 @@ body {
 .loading #main {
   display: none;
 }
+#total {
+  float: right;
+  padding: 5px 0;
+  margin-right: 10px;
+  color: #737373;
+}
 #facets {
   *zoom: 1;
   position: relative;

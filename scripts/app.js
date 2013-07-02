@@ -64,6 +64,7 @@
 			$.each(instances, function() {
 				$(template('instance', this)).appendTo('#instances');
 			});
+			$('#total').html(instances.length + ' total instances');
 			$('#instances').packery({
 				itemSelector: '.instance',
 				gutter: 0,
