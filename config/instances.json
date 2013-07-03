@@ -522,7 +522,7 @@
 		"id": "datos_codeandomexico_org",
 		"url": "http://datos.codeandomexico.org/",
 		"title": "Codeando México",
-		"description": "",
+		"description": "Codeando México is a civic startup which aims to build the largest community-driven open data platform in Mexico, bringing together a range of key players and data sources.",
 		"locale": "Mexico",
 		"facets": [
 			{ "key": "Region", "value": "North America" },
