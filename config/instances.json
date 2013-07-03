@@ -478,7 +478,7 @@
 		"id": "datacatalogs_org",
 		"url": "http://datacatalogs.org/",
 		"title": "datacatalogs.org",
-		"description": "",
+		"description": "At datacatalogs.org, a group of Open Data experts from around the world maintain a comprehensive list of open data catalogues (including, of course, the ones listed on this page).",
 		"locale": "Worldwide",
 		"facets": [
 			{ "key": "Region", "value": "Worldwide" },
