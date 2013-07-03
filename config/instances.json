@@ -15,6 +15,7 @@
 		"url": "http://dados.gov.br",
 		"title": "dados.gov.br",
 		"description": "The Brazilian national portal at http://dados.gov.br/ was built using a highly participative process, with planning and development meetings open to all interested citizens. It used CKAN in line with government policy to use free and open-source software where possible.",
+		"locale": "Brazil",
 		"facets": [
 			{ "key": "Region", "value": "South America" },
 			{ "key": "Type", "value": "National Government" }
