@@ -398,10 +398,10 @@
 		]
 	},
 	{
-		"id": "thedatahub_org",
-		"url": "http://thedatahub.org/",
-		"title": "the Data Hub",
-		"description": "",
+		"id": "datahub_io",
+		"url": "http://datahub.io/",
+		"title": "The Datahub",
+		"description": "The DataHub, administered by the Open Knowledge Foundation, was the first ever CKAN installation. Anyone can add or edit data or records, so the site can be thought of a bit like a 'data wiki'. The DataHub is widely used by a variety of groups, including the Linked Data community who use it to generate the LOD cloud diagram showing the current extent of Linked Data sets.",
 		"locale": "Worldwide",
 		"facets": [
 			{ "key": "Region", "value": "Worldwide" },
