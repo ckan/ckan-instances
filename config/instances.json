@@ -500,7 +500,7 @@
 		"id": "data_openva_com",
 		"url": "http://data.openva.com/",
 		"title": "Open Virginia",
-		"description": "",
+		"description": "Open Virginia is a volunteer-run catalogue of open government data published about the Commonwealth of Virginia — APIs, bulk downloads, and links to third-party data sources.",
 		"locale": "Virginia, USA",
 		"facets": [
 			{ "key": "Region", "value": "North America" },
