@@ -511,7 +511,7 @@
 		"id": "data_codeforhouston_com",
 		"url": "http://data.codeforhouston.com/",
 		"title": "Houston Data Portal",
-		"description": "",
+		"description": "The Houston Data Portal is a project of Code for Houston, a citizen's initiative of programmers in Houston, Texas, aiming to improve the city.",
 		"locale": "Houston, USA",
 		"facets": [
 			{ "key": "Region", "value": "North America" },
