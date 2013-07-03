@@ -529,5 +529,16 @@
 			{ "key": "Region", "value": "North America" },
 			{ "key": "Type", "value": "Local / Regional Government" }
 		]
+	},
+	{
+		"id": "opendatadc_org",
+		"url": "http://opendatadc.org/",
+		"title": "OpenDataDC",
+		"description": "OpenDataDC is a public data catalog for and by the people of Washington, DC. It complements the catalog maintained by the city government at data.dc.gov which houses official municipal data. OpenData DC is a project of Code for DC.",
+		"locale": "Washington DC, USA",
+		"facets": [
+			{ "key": "Region", "value": "North America" },
+			{ "key": "Type", "value": "Community" }
+		]
 	}
 ]
