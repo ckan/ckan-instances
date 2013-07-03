@@ -307,7 +307,7 @@
 		"locale": "Brazil",
 		"facets": [
 			{ "key": "Region", "value": "South America" },
-			{ "key": "Type", "value": "National Government" }
+			{ "key": "Type", "value": "Other Orgs" }
 		]
 	},
 	{
@@ -318,7 +318,7 @@
 		"locale": "Europe",
 		"facets": [
 			{ "key": "Region", "value": "Europe" },
-			{ "key": "Type", "value": "National Government" }
+			{ "key": "Type", "value": "Other Orgs" }
 		]
 	},
 	{
@@ -329,7 +329,7 @@
 		"locale": "Europe",
 		"facets": [
 			{ "key": "Region", "value": "Europe" },
-			{ "key": "Type", "value": "Community" }
+			{ "key": "Type", "value": "Other Orgs" }
 		]
 	},
 	{
@@ -340,7 +340,7 @@
 		"locale": "Japan",
 		"facets": [
 			{ "key": "Region", "value": "Asia" },
-			{ "key": "Type", "value": "National Government" }
+			{ "key": "Type", "value": "Other Orgs" }
 		]
 	},
 	{
@@ -351,7 +351,7 @@
 		"locale": "USA",
 		"facets": [
 			{ "key": "Region", "value": "North America" },
-			{ "key": "Type", "value": "National Government" }
+			{ "key": "Type", "value": "Other Orgs" }
 		]
 	},
 	{
@@ -362,7 +362,7 @@
 		"locale": "Worldwide",
 		"facets": [
 			{ "key": "Region", "value": "Worldwide" },
-			{ "key": "Type", "value": "Organisations" }
+			{ "key": "Type", "value": "Other Orgs" }
 		]
 	},
 	{
