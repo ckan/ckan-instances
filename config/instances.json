@@ -489,7 +489,7 @@
 		"id": "africaopendata_org",
 		"url": "http://africaopendata.org/",
 		"title": "Africa Open Data",
-		"description": "",
+		"description": "The Open Africa Platform initiative aims to be largest repository of Data on the African continent - a Library of Congress of Data for African for use by citizens, media, activists, governments and civil society. It is part of the Ujuzi Initiative which is created and funded by the Africa Media Initiative (AMI), the World Bank Institute (WBI) and Google.",
 		"locale": "Africa",
 		"facets": [
 			{ "key": "Region", "value": "Africa" },
