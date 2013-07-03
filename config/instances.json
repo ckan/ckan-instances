@@ -444,8 +444,8 @@
 	{
 		"id": "open_data_okfn_gr",
 		"url": "http://open-data.okfn.gr/",
-		"title": "OKFN LOCAL: Greek Open Data",
-		"description": "",
+		"title": "Greek Open Data Hub",
+		"description": "The Greek Open Data Hub is a project run by the Open Knowledge Foundation Greece, including a CKAN data repository and other tools.",
 		"locale": "Greece",
 		"facets": [
 			{ "key": "Region", "value": "Europe" },
