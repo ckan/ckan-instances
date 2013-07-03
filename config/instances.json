@@ -456,7 +456,7 @@
 		"id": "www_nosdonnees_fr",
 		"url": "http://www.nosdonnees.fr/",
 		"title": "NosDonnées.fr",
-		"description": "",
+		"description": "A community-run data portal for France.",
 		"locale": "France",
 		"facets": [
 			{ "key": "Region", "value": "Europe" },
