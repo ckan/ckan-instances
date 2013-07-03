@@ -412,7 +412,7 @@
 		"id": "offenedaten_de",
 		"url": "http://offenedaten.de/",
 		"title": "OffeneDaten.de",
-		"description": "",
+		"description": "OffeneDaten.de, run by the Open Knowledge Foundation Germany, is a community data portal aiming to provide an independent and comprehensive range of data from different sources, including public administrations, research, and private organisations.",
 		"locale": "Germany",
 		"facets": [
 			{ "key": "Region", "value": "Europe" },
