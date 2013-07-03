@@ -433,8 +433,8 @@
 	{
 		"id": "www_opendatahub_it",
 		"url": "http://www.opendatahub.it/",
-		"title": "Open Data HUB Italia",
-		"description": "",
+		"title": "OpenDataHub Italia",
+		"description": "OpenDataHub Italia, run as a public service by data consultancy Sciamlab, harvests records from many different regional data portals throughout Italy.",
 		"locale": "Italy",
 		"facets": [
 			{ "key": "Region", "value": "Europe" },
