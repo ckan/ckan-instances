@@ -467,7 +467,7 @@
 		"id": "datagov_ru",
 		"url": "http://datagov.ru/",
 		"title": "DataGov.ru",
-		"description": "",
+		"description": "A community-run data portal for Russia.",
 		"locale": "Russia",
 		"facets": [
 			{ "key": "Region", "value": "Europe" },
