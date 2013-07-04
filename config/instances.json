@@ -540,5 +540,16 @@
 			{ "key": "Region", "value": "North America" },
 			{ "key": "Type", "value": "Community" }
 		]
+	},
+	{
+		"id": "catalogue_datalocale_fr",
+		"url": "http://catalogue.datalocale.fr",
+		"title": "Ressourcerie Datalocale",
+		"description": "A federated open data portal run by the Department of Gironde (west-south of France, capitale Bordeaux). Hosts datasets published by local public authorities, associations and citizens.",
+		"locale": "France",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
 	}
 ]
