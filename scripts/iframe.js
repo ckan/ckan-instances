@@ -7,6 +7,7 @@
 			if (height > 0) {
 				height += 15;
 				$('#instances_frame').css('height', height);
+				window.location.href = '#';
 			}
 		}
 	}
