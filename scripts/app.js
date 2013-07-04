@@ -5,7 +5,7 @@
 		var loaded = 0;
 		var length = 0;
 		var store = [];
-		var facet = 'Featured=Featured';
+		var facet = 'Featured=All';
 
 		function loader(type, what, where, data_type) {
 			length += what.length;
