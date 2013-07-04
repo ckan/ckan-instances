@@ -152,6 +152,7 @@
 		"description": "The City of Ottawa relaunched their open data portal in April 2013, moving it to CKAN in order to take advantage of the wide range of features and enhancements over the existing portal, including improved searching and faceting, the API enabling programmers to build data apps, and notifications and RSS feeds.",
 		"locale": "Ottawa, Canada",
 		"facets": [
+			{ "key": "Featured", "value": "Featured" },
 			{ "key": "Region", "value": "North America" },
 			{ "key": "Type", "value": "Local / Regional Government" }
 		]
@@ -361,6 +362,7 @@
 		"description": "The International Aid Transparency Initiative has a data portal where it publishes an index of data on international development activities, with data from donor organisations and countries.",
 		"locale": "Worldwide",
 		"facets": [
+			{ "key": "Featured", "value": "Featured" },
 			{ "key": "Region", "value": "Worldwide" },
 			{ "key": "Type", "value": "Other Orgs" }
 		]
@@ -493,6 +495,7 @@
 		"description": "The Open Africa Platform initiative aims to be largest repository of Data on the African continent - a Library of Congress of Data for African for use by citizens, media, activists, governments and civil society. It is part of the Ujuzi Initiative which is created and funded by the Africa Media Initiative (AMI), the World Bank Institute (WBI) and Google.",
 		"locale": "Africa",
 		"facets": [
+			{ "key": "Featured", "value": "Featured" },
 			{ "key": "Region", "value": "Africa" },
 			{ "key": "Type", "value": "Community" }
 		]
