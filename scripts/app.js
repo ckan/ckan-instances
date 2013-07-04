@@ -102,6 +102,7 @@
 			var bits = facet.split('=');
 			var $this = $('[data-facet^="'+bits[1]+'"]');
 			var parent = $this.parents('.facet');
+			var context = '';
 			var total;
 
 			$('.facet, .faceter').removeClass('active selected');
@@ -117,9 +118,10 @@
 				var to_show = $('.instance[data-facet-'+bits[0]+'^="'+bits[1]+'"]');
 				to_show.show();
 				total = to_show.length;
+				context = ' ' + bits[1].toLowerCase();
 			}
 
-			$('#total').text(total + ' ' + bits[1].toLowerCase() + ' instance' + ( ( total != 1 ) ? 's' : '' ) );
+			$('#total').text(total + context + ' instance' + ( ( total != 1 ) ? 's' : '' ) );
 			$('.root span', parent).text(bits[1]);
 			parent.addClass('selected');
 			$this.addClass('active');
