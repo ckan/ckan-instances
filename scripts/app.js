@@ -1,6 +1,7 @@
 (function($, window) {
 	$(function() {
 
+		var url = 'http://ckan.org/instances/';
 		var loaded = 0;
 		var length = 0;
 		var store = [];
@@ -124,6 +125,9 @@
 			$this.addClass('active');
 
 			$('#instances').packery();
+
+			window.top.location.href = url + '#' + $('body').outerHeight();
+
 		}
 
 		loader("template", ['instance', 'facet'], 'templates/{{id}}.hbs', 'text');
