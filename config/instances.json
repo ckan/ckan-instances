@@ -554,5 +554,16 @@
 			{ "key": "Region", "value": "Europe" },
 			{ "key": "Type", "value": "Local / Regional Government" }
 		]
+	},
+	{
+		"id": "data_gc_ca",
+		"url": "http://data.gc.ca",
+		"title": "Data.gc.ca",
+		"description": "Canada's new portal, data,gc,ca, is a key part of Canada’s Action Plan on Open Government to enhance transparency and accountability. data.gc.ca provides one-stop access to Government of Canada data and information.",
+		"locale": "Canada",
+		"facets": [
+			{ "key": "Region", "value": "North America" },
+			{ "key": "Type", "value": "National Government" }
+		]
 	}
 ]
