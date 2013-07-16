@@ -565,5 +565,16 @@
 			{ "key": "Region", "value": "North America" },
 			{ "key": "Type", "value": "National Government" }
 		]
+	},
+	{
+		"id": "opendatacanarias_es",
+		"url": "http://opendatacanarias.es/",
+		"title": "Open Data Canarias",
+		"description": "Open Data portal listing datasets from various organizations from the Canary Islands.",
+		"locale": "Canary Islands, Spain",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
 	}
 ]
