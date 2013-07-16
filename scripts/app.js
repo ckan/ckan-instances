@@ -1,6 +1,7 @@
 (function($, window) {
 	$(function() {
 
+		var is_local = ( window.location.href.indexOf('http://localhost:4000/') === 0 );
 		var url = 'http://ckan.org/instances/';
 		var loaded = 0;
 		var length = 0;
@@ -128,7 +129,9 @@
 
 			$('#instances').packery();
 
-			window.top.location.href = url + '#' + $('body').outerHeight();
+			if (!is_local) {
+				window.top.location.href = url + '#' + $('body').outerHeight();
+			}
 
 		}
 
