@@ -135,6 +135,17 @@
 		]
 	},
 	{
+		"id": "data_gov_au",
+		"url": "http://data.gov.au",
+		"title": "data.gov.au",
+		"description": "Data.gov.au provides an easy way to find, access and reuse public datasets from the Australian Government.",
+		"locale": "Australia",
+		"facets": [
+			{ "key": "Region", "value": "Australasia" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
+	},
+	{
 		"id": "data_sa_gov_au",
 		"url": "http://data.sa.gov.au/",
 		"title": "South Australian Government Data Directory",
