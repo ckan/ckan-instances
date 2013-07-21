@@ -124,6 +124,17 @@
 		]
 	},
 	{
+		"id": "data_nsw",
+		"url": "http://data.nsw.gov.au",
+		"title": "data.NSW",
+		"description": "data.NSW brings together a list of NSW Government datasets available in one searchable website. The NSW Government aims to make data more accessible to the public and to industry to stimulate innovative approaches to service delivery.",
+		"locale": "New South Wales, Australia",
+		"facets": [
+			{ "key": "Region", "value": "Australasia" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
+	},
+	{
 		"id": "data_qld_gov_au",
 		"url": "http://data.qld.gov.au",
 		"title": "Queensland Government data",
