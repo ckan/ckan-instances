@@ -620,5 +620,16 @@
 			{ "key": "Region", "value": "South America" },
 			{ "key": "Type", "value": "National Government" }
 		]
+	},
+	{
+		"id": "dartportal_leeds_ac_uk",
+		"url": "http://dartportal.leeds.ac.uk/",
+		"title": "DART",
+		"description": "The Detection of Archaeological Residues using Remote-sensing Techniques (DART) project was initiated in 2010 in order to investigate the ability of various sensors to detect archaeological features in ‘difficult’ circumstances. It developed an automated ingest sequence that adds rich metadata to each resource, and hosts over 1tb of data under open licences.",
+		"locale": "Leeds, United Kingdom",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Other Orgs" }
+		]
 	}
 ]
