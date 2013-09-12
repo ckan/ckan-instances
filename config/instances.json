@@ -598,5 +598,16 @@
 			{ "key": "Region", "value": "Europe" },
 			{ "key": "Type", "value": "Local / Regional Government" }
 		]
+	},
+	{
+		"id": "data_edostate_gov_ng",
+		"url": "http://data.edostate.gov.ng/",
+		"title": "Edo State, Nigeria",
+		"description": "Edo State Open Data is Nigeria’s first open data portal. The site was developed with support from the World Bank and a dedicated team in Benin City. A geospatial team is actively mapping infrastructure and resources for presentation on the site.",
+		"locale": "Edo, Nigeria",
+		"facets": [
+			{ "key": "Region", "value": "Africa" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
 	}
 ]
