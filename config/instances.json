@@ -631,5 +631,16 @@
 			{ "key": "Region", "value": "Europe" },
 			{ "key": "Type", "value": "Other Orgs" }
 		]
+	},
+	{
+		"id": "bermuda_io",
+		"url": "http://bermuda.io/",
+		"title": "Bermuda.io",
+		"description": "Bermuda.io was launched in September 2013 by two local developers, to promote open data and encourage citizen engagement and participation. They launched the website with key public documents and statistics covering 20 years, and plan to publish a wide range of public data in both human and machine readable formats.",
+		"locale": "Bermuda",
+		"facets": [
+			{ "key": "Region", "value": "North America" },
+			{ "key": "Type", "value": "Other Orgs" }
+		]
 	}
 ]
