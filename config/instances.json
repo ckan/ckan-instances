@@ -609,5 +609,16 @@
 			{ "key": "Region", "value": "Africa" },
 			{ "key": "Type", "value": "Local / Regional Government" }
 		]
+	},
+	{
+		"id": "datospublicos_gob_ar",
+		"url": "http://datospublicos.gob.ar/",
+		"title": "Portal de Datos Públicos",
+		"description": "Portal de Datos Públicos in Argentina is an open government and transparency initiative. It went live in August 2013, under the National System of Public Data (SINDAP) created by a resolution of ministers.",
+		"locale": "Argentina",
+		"facets": [
+			{ "key": "Region", "value": "South America" },
+			{ "key": "Type", "value": "National Government" }
+		]
 	}
 ]
