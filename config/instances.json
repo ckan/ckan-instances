@@ -642,5 +642,16 @@
 			{ "key": "Region", "value": "North America" },
 			{ "key": "Type", "value": "Other Orgs" }
 		]
+	},
+	{
+		"id": "opendata_admin_ch",
+		"url": "http://opendata.admin.ch/",
+		"title": "Swiss Open Government Data",
+		"description": "The “Open Government Data at the Confederation” project is a joint undertaking by the Swiss Federal Archives and their project partners to create a central pilot portal providing access to open data from the Swiss authorities.",
+		"locale": "Switzerland",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "National Government" }
+		]
 	}
 ]
