@@ -489,9 +489,9 @@
 		]
 	},
 	{
-		"id": "datagov_ru",
-		"url": "http://datagov.ru/",
-		"title": "DataGov.ru",
+		"id": "hubofdata_ru",
+		"url": "http://hubofdata.ru/",
+		"title": "OpenGovData.ru",
 		"description": "A community-run data portal for Russia.",
 		"locale": "Russia",
 		"facets": [
