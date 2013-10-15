@@ -653,5 +653,16 @@
 			{ "key": "Region", "value": "Europe" },
 			{ "key": "Type", "value": "National Government" }
 		]
+	},
+	{
+		"id": "datosabiertos_malaga_eu",
+		"url": "http://datosabiertos.malaga.eu/",
+		"title": "Datos abiertos Málaga",
+		"description": "Málaga is committed to the global initiative that aims to make available to all citizens and companies the information held by public authorities.",
+		"locale": "Malaga, Spain",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
 	}
 ]
