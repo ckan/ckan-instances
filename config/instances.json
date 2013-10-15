@@ -664,5 +664,16 @@
 			{ "key": "Region", "value": "Europe" },
 			{ "key": "Type", "value": "Local / Regional Government" }
 		]
+	},
+	{
+		"id": "data_kk_dk",
+		"url": "http://data.kk.dk/",
+		"title": "Open Data København",
+		"description": "The Copenhagen data portal data.kk.dk went live in September 2013. It aims to increase transparency, foster dialogue between the municipality and citizens, and stimulate innovation and growth by enabling apps and services to be built on city data. The municipality is in dialogue with a range of European cities and hopes to benefit from their experience with Open Data.",
+		"locale": "Copenhagen, Denmark",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
 	}
 ]
