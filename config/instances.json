@@ -708,5 +708,16 @@
 			{ "key": "Region", "value": "North America" },
 			{ "key": "Type", "value": "Local / Regional Government" }
 		]
+	},
+	{
+		"id": "data_glasgow_gov_uk",
+		"url": "http://data.glasgow.gov.uk/",
+		"title": "Glasgow Open Data",
+		"description": "Glasgow Open Data is part of Open Glasgow, a project funded with a Future Cities grant from the UK government. The data will be used to build an integrated view of Glasgow through maps, widgets and apps. Other public, private, and voluntary organisations are invited to use the platform to open and share their data.",
+		"locale": "Glasgow, Scotland, UK",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
 	}
 ]
