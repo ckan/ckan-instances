@@ -675,5 +675,38 @@
 			{ "key": "Region", "value": "Europe" },
 			{ "key": "Type", "value": "Local / Regional Government" }
 		]
+	},
+	{
+		"id": "opendata_cmt_es",
+		"url": "http://opendata.cmt.es/",
+		"title": "CNMC Open Data",
+		"description": "In Spain, the Markets and Competition Commission (CNMC) decided to release data openly to build transparency and participation, create economic value, and improve the efficiency of the organisation itself. The site went live in beta in October 2013. ",
+		"locale": "Spain",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Other Orgs" }
+		]
+	},
+	{
+		"id": "dati_gov_it",
+		"url": "http://dati.gov.it/",
+		"title": "dati.gov.it",
+		"description": "dati.gov.it is the official Open Data portal of Italy. It relaunched using CKAN in October 2013, partly to gain the advantages of CKAN's harvester to ingest data from the many local government data portals in Italy.",
+		"locale": "Italy",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "National Government" }
+		]
+	},
+	{
+		"id": "donnees_ville_montreal_qc_ca",
+		"url": "http://donnees.ville.montreal.qc.ca/",
+		"title": "Montréal Open Data",
+		"description": "The City of Montréal, in Quebec, Canada, launched this open data portal in beta in October 2013. It combines CKAN with the Wordpress content management system.",
+		"locale": "Montréal, Canada",
+		"facets": [
+			{ "key": "Region", "value": "North America" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
 	}
 ]
