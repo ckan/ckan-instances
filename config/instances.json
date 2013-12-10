@@ -752,5 +752,16 @@
 			{ "key": "Region", "value": "Europe" },
 			{ "key": "Type", "value": "Community" }
 		]
+	},
+	{
+		"id": "dati_trentino_it",
+		"url": "http://dati.trentino.it/",
+		"title": "Open Data Trentino",
+		"description": "Open data portal for the province of Trentino, Italy.",
+		"locale": "Trentino, Italy",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
 	}
 ]
