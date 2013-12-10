@@ -719,5 +719,16 @@
 			{ "key": "Region", "value": "Europe" },
 			{ "key": "Type", "value": "Local / Regional Government" }
 		]
+	},
+	{
+		"id": "dados_recife_pe_gov_br",
+		"url": "http://dados.recife.pe.gov.br/",
+		"title": "Dados Recife",
+		"description": "Open data portal for the municipality of Recife, Brazil.",
+		"locale": "Recife, Brazil",
+		"facets": [
+			{ "key": "Region", "value": "South America" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
 	}
 ]
