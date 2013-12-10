@@ -730,5 +730,16 @@
 			{ "key": "Region", "value": "South America" },
 			{ "key": "Type", "value": "Local / Regional Government" }
 		]
+	},
+	{
+		"id": "opendata_awt_be",
+		"url": "http://opendata.awt.be/",
+		"title": "opendata.awt.be",
+		"description": "Open data portal for the region of Wallonia, Belgium, developed by the Walloon Telecommunications Agency (AWT).",
+		"locale": "Wallonia, Belgium",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
 	}
 ]
