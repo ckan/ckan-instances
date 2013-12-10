@@ -741,5 +741,16 @@
 			{ "key": "Region", "value": "Europe" },
 			{ "key": "Type", "value": "Local / Regional Government" }
 		]
+	},
+	{
+		"id": "opendata_hu",
+		"url": "http://opendata.hu/",
+		"title": "opendata.hu",
+		"description": "A community-run open data portal for Hungary, including data from government, scientific and cultural institutions, business and citizens.",
+		"locale": "Hungary",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Community" }
+		]
 	}
 ]
