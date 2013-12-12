@@ -763,5 +763,16 @@
 			{ "key": "Region", "value": "Europe" },
 			{ "key": "Type", "value": "Local / Regional Government" }
 		]
+	},
+	{
+		"id": "data_gov_ro",
+		"url": "http://data.gov.ro/",
+		"title": "data.gov.ro",
+		"description": "In 2013, the Romanian government established the Department of Online Services and Design, responsible among other things for Open Data. The Department created data.gov.ro to empower citizens to identify, download and use public datasets created or held by government.",
+		"locale": "Romania",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "National Government" }
+		]
 	}
 ]
