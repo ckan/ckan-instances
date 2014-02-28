@@ -774,5 +774,16 @@
 			{ "key": "Region", "value": "Europe" },
 			{ "key": "Type", "value": "National Government" }
 		]
+	},
+	{
+		"id": "open_umea",
+		"url": "http://www.openumea.se/",
+		"title": "OpenUmea",
+		"description": "Open data portal for the municipality of Umea, in the north of Sweden.",
+		"locale": "Umea, Sweden",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
 	}
 ]
