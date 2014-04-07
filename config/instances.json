@@ -785,5 +785,16 @@
 			{ "key": "Region", "value": "Europe" },
 			{ "key": "Type", "value": "Local / Regional Government" }
 		]
+	},
+	{
+		"id": "rotterdamopendata_nl",
+		"url": "http://rotterdamopendata.nl/",
+		"title": "Rotterdam Open Data Store",
+		"description": "Rotterdam Open Data Store provides data held by the city of Rotterdam. It was launched in 2012 as a collaboration between the city of Rotterdam and the Rotterdam University of applied sciences.",
+		"locale": "Rotterdam, Netherlands",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
 	}
 ]
