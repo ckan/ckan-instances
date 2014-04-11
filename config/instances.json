@@ -793,7 +793,7 @@
 		"description": "Open data portal for the City of Surrey in British Columbia.",
 		"locale": "Surrey, British Columbia, Canada",
 		"facets": [
-			{ "key": "Region", "value": "North America" },
+			{ "key": "Region", "value": "North America" }
 		]
 	},
         {
@@ -806,13 +806,19 @@
 			{ "key": "Region", "value": "Europe" },
 			{ "key": "Type", "value": "Local / Regional Government" }
 		]
-	},
+	}
+,
         {
 		"id": "opendataCaceres",
 		"url": "http://opendata.caceres.es/",
 		"title": "Opendata Cáceres",
 		"description": "Opendata Cáceres was launched in 2014 by the city government of Cáceres. This portal aims to share the official data of the city to their citizens, and especially to developers. That is why all the datasets are ranked as 5 stars by Tim Berners-Lee's ranking.",
 		"locale": "Cáceres, Spain",
-
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+                ]
         }
+
+
 ]
