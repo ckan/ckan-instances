@@ -785,5 +785,16 @@
 			{ "key": "Region", "value": "Europe" },
 			{ "key": "Type", "value": "Local / Regional Government" }
 		]
+	},
+	{
+		"id": "data_surrey_ca",
+		"url": "http://data.surrey.ca/",
+		"title": "City of Surrey Open Data Catalogue",
+		"description": "Open data portal for the City of Surrey in British Columbia.",
+		"locale": "Surrey, British Columbia, Canada",
+		"facets": [
+			{ "key": "Region", "value": "North America" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+		]
 	}
 ]
