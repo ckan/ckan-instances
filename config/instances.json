@@ -806,8 +806,7 @@
 			{ "key": "Region", "value": "Europe" },
 			{ "key": "Type", "value": "Local / Regional Government" }
 		]
-	}
-,
+	},
         {
 		"id": "opendataCaceres",
 		"url": "http://opendata.caceres.es/",
@@ -818,7 +817,29 @@
 			{ "key": "Region", "value": "Europe" },
 			{ "key": "Type", "value": "Local / Regional Government" }
                 ]
-        }
+        },
+        {
+		"id": "copenhagen_data",
+		"url": "http://data.kk.dk/",
+		"title": "Copenhagen Data",
+		"description": "Copenhagen Data features open data from Copenhagen Municipality including for instance infrastructural and traffic data. The purpose of the portal is to open up data from the many different data systems of the city.",
+		"locale": "Copenhagen, Denmark",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+                ]
+        },
+        {
+		"id": "open_data_aarhus",
+		"url": "http://www.odaa.dk/",
+		"title": "Open Data Aarhus",
+		"description": "Open Data Aarhus aims to make data from Denmark's second-largest city Aarhus freely and openly available to support productivity and innovation - as well as more efficient use of public data.",
+		"locale": "Aarhus, Denmark",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+                ]
+        }        
 
 
 ]
