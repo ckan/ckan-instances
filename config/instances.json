@@ -872,7 +872,38 @@
 			{ "key": "Region", "value": "Europe" },
 			{ "key": "Type", "value": "Local / Regional Government" }
                 ]
+        },
+        {
+		"id": "datapoa_com_br",
+		"url": "http://datapoa.com.br/",
+		"title": "DataPOA",
+		"description": "Portal for the city of Porto Alegre, capital of the Rio Grande do Sul state in Brazil. Using CKAN 2.1",
+		"locale": "Porto Alegre, RS, Brazil",
+		"facets": [
+			{ "key": "Region", "value": "South America" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+                ]
+        },
+        {
+		"id": "dados_rs_gov_br",
+		"url": "http://dados.rs.gov.br/",
+		"title": "DadosRS",
+		"description": "Portal for the brazilian state Rio Grande do Sul. Using CKAN 2.2.",
+		"locale": "Rio Grande do Sul, Brazil",
+		"facets": [
+			{ "key": "Region", "value": "South America" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+                ]
+        },
+        {
+		"id": "data_rio_rj_gov_br",
+		"url": "http://data.rio.rj.gov.br/",
+		"title": "Data.Rio",
+		"description": "Portal for the brazilian state Rio Grande do Sul. Using CKAN 2.2.",
+		"locale": "Rio de Janeiro, RJ, Brazil",
+		"facets": [
+			{ "key": "Region", "value": "South America" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+                ]
         }
-
-
 ]
