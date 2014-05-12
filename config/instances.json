@@ -905,5 +905,16 @@
 			{ "key": "Region", "value": "South America" },
 			{ "key": "Type", "value": "Local / Regional Government" }
                 ]
+        },
+		{
+		"id": "open_data_gortynia_gr",
+		"url": "http://opendatagortynia.gr/",
+		"title": "Open Data Gortynia",
+		"description": "This is the official Open Data Catalogue of Municipality of Gortynia in Greece, launched during April 2014. At this stage (beta), is mainly based on Gortynia Municipality’s open geospatial datasets, as well as open data from third public sector’s parties. The catalogue has been smoothly integrated with Gortynia’s INSPIRE Spatial Data Infrastructure (SDI), in the sense they are dynamically connected. It provides simple (preview) and advanced (Geoportal) view of datasets, downloading in various formats (shapefile, kml, geotiff). The catalogue is built using FOSS, such as CKAN, GET SDI Portal, GeoServer, Geonetwork.",
+		"locale": "Gortynia, Greece",
+		"facets": [
+			{ "key": "Region", "value": "Europe" },
+			{ "key": "Type", "value": "Local / Regional Government" }
+                ]
         }
 ]
