@@ -330,7 +330,7 @@
 		"location": "Brazil",
 		"facets": [
 			{ "key": "Region", "value": "South America" },
-			{ "key": "Type", "value": "Other Orgs" }
+			{ "key": "Type", "value": "Other Organizations" }
 		]
 	},
 	{
@@ -341,7 +341,7 @@
 		"location": "Europe",
 		"facets": [
 			{ "key": "Region", "value": "Europe" },
-			{ "key": "Type", "value": "Other Orgs" }
+			{ "key": "Type", "value": "Other Organizations" }
 		]
 	},
 	{
@@ -352,7 +352,7 @@
 		"location": "Europe",
 		"facets": [
 			{ "key": "Region", "value": "Europe" },
-			{ "key": "Type", "value": "Other Orgs" }
+			{ "key": "Type", "value": "Other Organizations" }
 		]
 	},
 	{
@@ -363,7 +363,7 @@
 		"location": "Japan",
 		"facets": [
 			{ "key": "Region", "value": "Asia" },
-			{ "key": "Type", "value": "Other Orgs" }
+			{ "key": "Type", "value": "Other Organizations" }
 		]
 	},
 	{
@@ -374,7 +374,7 @@
 		"location": "USA",
 		"facets": [
 			{ "key": "Region", "value": "North America" },
-			{ "key": "Type", "value": "Other Orgs" }
+			{ "key": "Type", "value": "Other Organizations" }
 		]
 	},
 	{
@@ -386,7 +386,7 @@
 		"facets": [
 			{ "key": "Featured", "value": "Featured" },
 			{ "key": "Region", "value": "Worldwide" },
-			{ "key": "Type", "value": "Other Orgs" }
+			{ "key": "Type", "value": "Other Organizations" }
 		]
 	},
 	{
@@ -629,7 +629,7 @@
 		"location": "Leeds, United Kingdom",
 		"facets": [
 			{ "key": "Region", "value": "Europe" },
-			{ "key": "Type", "value": "Other Orgs" }
+			{ "key": "Type", "value": "Other Organizations" }
 		]
 	},
 	{
@@ -640,7 +640,7 @@
 		"location": "Bermuda",
 		"facets": [
 			{ "key": "Region", "value": "North America" },
-			{ "key": "Type", "value": "Other Orgs" }
+			{ "key": "Type", "value": "Other Organizations" }
 		]
 	},
 	{
@@ -684,7 +684,7 @@
 		"location": "Spain",
 		"facets": [
 			{ "key": "Region", "value": "Europe" },
-			{ "key": "Type", "value": "Other Orgs" }
+			{ "key": "Type", "value": "Other Organizations" }
 		]
 	},
 	{
@@ -848,7 +848,7 @@
 		"location": "United States",
 		"facets": [
 			{ "key": "Region", "value": "North America" },
-			{ "key": "Type", "value": "Other Orgs" }
+			{ "key": "Type", "value": "Other Organizations" }
                 ]
         },
         {
