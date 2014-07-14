@@ -1,5 +1,5 @@
 <article class="instance {{#if featured}} featured{{/if}}" {{#each facets}} data-facet-{{key}}="{{value}}"{{/each}}>
-	<img src="images/instance/{{id}}.png" width="274" height="196">
+    {{#if url }}<img src="images/instance/{{id}}.png" width="274" height="196">{{/if}}
 	<h2>{{title}}</h2>
 	<p class="description">{{description}}</p>
 	<p class="meta"><i class="icon-globe"></i> {{location}}</p>
