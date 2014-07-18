@@ -891,6 +891,23 @@
         "id": "opendatadc_org"
     },
     {
+        "description": "Open data website by the Federal Public Administration of the United Mexican States.",
+        "title": "datos.gob.mx",
+        "url": "http://datos.gob.mx/",
+        "facets": [
+            {
+                "value": "North America",
+                "key": "Region"
+            },
+            {
+                "value": "National Government",
+                "key": "Type"
+            }
+            ],
+        "location": "Mexico",
+        "id": "datos_gob_mx"
+    }
+    {
         "description": "A federated open data portal run by the Department of Gironde (west-south of France, capitale Bordeaux). Hosts datasets published by local public authorities, associations and citizens.",
         "title": "Ressourcerie Datalocale",
         "url": "http://catalogue.datalocale.fr",
