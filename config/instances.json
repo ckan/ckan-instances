@@ -1669,23 +1669,6 @@
         "id": "datamx_io"
     },
     {
-        "description": "Installed CKAN as a toy for free time.\nNow items which I'm interested in are registered as dataset.",
-        "title": "toy.7k8m.com",
-        "url": "http://toy.7k8m.com",
-        "facets": [
-            {
-                "value": "Other Organizations",
-                "key": "Type"
-            },
-            {
-                "value": "None",
-                "key": "Region"
-            }
-        ],
-        "location": "",
-        "id": "toy_7k8m_com"
-    },
-    {
         "description": "Data for Japan which is formerly known as CKAN Japanese  is a community project which aims to aggregate open data in Japan. The site is hosted by Linked Open Data Initiative, Code for Japan and Open Knowledge Foundation Japan. ",
         "title": "Data for Japan",
         "url": "http://dataforjapan.org",
