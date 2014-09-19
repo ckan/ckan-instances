@@ -5,12 +5,12 @@
         "url": "http://data.gv.at",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "National Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "National Government"
             }
         ],
         "location": "Austria",
@@ -22,12 +22,12 @@
         "url": "http://dados.gov.br",
         "facets": [
             {
-                "value": "South America",
-                "key": "Region"
+                "key": "Region",
+                "value": "South America"
             },
             {
-                "value": "National Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "National Government"
             }
         ],
         "location": "Brazil",
@@ -39,12 +39,12 @@
         "url": "http://govdata.de",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "National Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "National Government"
             }
         ],
         "location": "Germany",
@@ -56,12 +56,12 @@
         "url": "http://data.overheid.nl",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "National Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "National Government"
             }
         ],
         "location": "Netherlands",
@@ -73,12 +73,12 @@
         "url": "http://data.norge.no",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "National Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "National Government"
             }
         ],
         "location": "Norway",
@@ -90,12 +90,12 @@
         "url": "http://data.gov.sk",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "National Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "National Government"
             }
         ],
         "location": "Slovakia",
@@ -107,16 +107,16 @@
         "url": "http://data.gov.uk",
         "facets": [
             {
-                "value": "Featured",
-                "key": "Featured"
+                "key": "Featured",
+                "value": "Featured"
             },
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "National Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "National Government"
             }
         ],
         "location": "United Kingdom",
@@ -128,12 +128,12 @@
         "url": "https://catalogodatos.gub.uy/",
         "facets": [
             {
-                "value": "South America",
-                "key": "Region"
+                "key": "Region",
+                "value": "South America"
             },
             {
-                "value": "National Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "National Government"
             }
         ],
         "location": "Uruguay",
@@ -145,16 +145,16 @@
         "url": "http://data.gov",
         "facets": [
             {
-                "value": "Featured",
-                "key": "Featured"
+                "key": "Featured",
+                "value": "Featured"
             },
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             },
             {
-                "value": "National Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "National Government"
             }
         ],
         "location": "USA",
@@ -166,12 +166,12 @@
         "url": "http://opingogn.is/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "National Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "National Government"
             }
         ],
         "location": "Iceland",
@@ -183,16 +183,16 @@
         "url": "http://data.buenosaires.gob.ar/",
         "facets": [
             {
-                "value": "Featured",
-                "key": "Featured"
+                "key": "Featured",
+                "value": "Featured"
             },
             {
-                "value": "South America",
-                "key": "Region"
+                "key": "Region",
+                "value": "South America"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Buenos Aires, Argentina",
@@ -204,12 +204,12 @@
         "url": "http://data.nsw.gov.au",
         "facets": [
             {
-                "value": "Australasia",
-                "key": "Region"
+                "key": "Region",
+                "value": "Australasia"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "New South Wales, Australia",
@@ -221,12 +221,12 @@
         "url": "http://data.qld.gov.au",
         "facets": [
             {
-                "value": "Australasia",
-                "key": "Region"
+                "key": "Region",
+                "value": "Australasia"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Queensland, Australia",
@@ -238,12 +238,12 @@
         "url": "http://data.gov.au",
         "facets": [
             {
-                "value": "Australasia",
-                "key": "Region"
+                "key": "Region",
+                "value": "Australasia"
             },
             {
-                "value": "National Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "National Government"
             }
         ],
         "location": "Australia",
@@ -255,12 +255,12 @@
         "url": "http://data.sa.gov.au/",
         "facets": [
             {
-                "value": "Australasia",
-                "key": "Region"
+                "key": "Region",
+                "value": "Australasia"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "South Australia, Australia",
@@ -272,16 +272,16 @@
         "url": "http://data.ottawa.ca/",
         "facets": [
             {
-                "value": "Featured",
-                "key": "Featured"
+                "key": "Featured",
+                "value": "Featured"
             },
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Ottawa, Canada",
@@ -293,12 +293,12 @@
         "url": "http://www.hri.fi",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Helsinki, Finland",
@@ -310,12 +310,12 @@
         "url": "http://daten.berlin.de",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Berlin, Germany",
@@ -327,12 +327,12 @@
         "url": "http://daten.hamburg.de/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Hamburg, Germany",
@@ -344,12 +344,12 @@
         "url": "http://www.daten.rlp.de/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Hamburg, Germany",
@@ -361,12 +361,12 @@
         "url": "http://www.opendata-hro.de/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Rostock, Germany",
@@ -378,12 +378,12 @@
         "url": "http://opendata.comune.bari.it/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Bari, Italy",
@@ -395,12 +395,12 @@
         "url": "http://www.opendata.provincia.roma.it/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Province of Rome, Italy",
@@ -412,12 +412,12 @@
         "url": "http://dati.toscana.it/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Tuscany, Italy",
@@ -429,12 +429,12 @@
         "url": "http://opendata.aragon.es/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Arag\u00f3n, Spain",
@@ -446,12 +446,12 @@
         "url": "http://datagm.org.uk",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Greater Manchester, UK",
@@ -463,12 +463,12 @@
         "url": "http://data.denvergov.org/",
         "facets": [
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Denver, Colorado, USA",
@@ -480,12 +480,12 @@
         "url": "http://data.cityofsantacruz.com/",
         "facets": [
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Santa Cruz, California, USA",
@@ -497,12 +497,12 @@
         "url": "http://data.lexingtonky.gov/",
         "facets": [
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Lexington, Kentucky, USA",
@@ -514,12 +514,12 @@
         "url": "http://dadosabertos.senado.gov.br/",
         "facets": [
             {
-                "value": "South America",
-                "key": "Region"
+                "key": "Region",
+                "value": "South America"
             },
             {
-                "value": "Other Organizations",
-                "key": "Type"
+                "key": "Type",
+                "value": "Other Organizations"
             }
         ],
         "location": "Brazil",
@@ -531,12 +531,12 @@
         "url": "http://open-data.europa.eu/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Other Organizations",
-                "key": "Type"
+                "key": "Type",
+                "value": "Other Organizations"
             }
         ],
         "location": "Europe",
@@ -548,12 +548,12 @@
         "url": "http://publicdata.eu",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Other Organizations",
-                "key": "Type"
+                "key": "Type",
+                "value": "Other Organizations"
             }
         ],
         "location": "Europe",
@@ -565,12 +565,12 @@
         "url": "http://datameti.go.jp/data/",
         "facets": [
             {
-                "value": "Asia",
-                "key": "Region"
+                "key": "Region",
+                "value": "Asia"
             },
             {
-                "value": "Other Organizations",
-                "key": "Type"
+                "key": "Type",
+                "value": "Other Organizations"
             }
         ],
         "location": "Japan",
@@ -582,12 +582,12 @@
         "url": "http://healthdata.gov/",
         "facets": [
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             },
             {
-                "value": "Other Organizations",
-                "key": "Type"
+                "key": "Type",
+                "value": "Other Organizations"
             }
         ],
         "location": "USA",
@@ -599,16 +599,16 @@
         "url": "http://iatiregistry.org",
         "facets": [
             {
-                "value": "Featured",
-                "key": "Featured"
+                "key": "Featured",
+                "value": "Featured"
             },
             {
-                "value": "Worldwide",
-                "key": "Region"
+                "key": "Region",
+                "value": "Worldwide"
             },
             {
-                "value": "Other Organizations",
-                "key": "Type"
+                "key": "Type",
+                "value": "Other Organizations"
             }
         ],
         "location": "Worldwide",
@@ -620,12 +620,12 @@
         "url": "http://www.odaa.dk/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Aarhus, Denmark",
@@ -637,12 +637,12 @@
         "url": "http://data.linz.gv.at/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Linz, Austria",
@@ -654,12 +654,12 @@
         "url": "http://data.graz.gv.at/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Graz, Austria",
@@ -671,12 +671,12 @@
         "url": "http://datahub.io/",
         "facets": [
             {
-                "value": "Worldwide",
-                "key": "Region"
+                "key": "Region",
+                "value": "Worldwide"
             },
             {
-                "value": "Community",
-                "key": "Type"
+                "key": "Type",
+                "value": "Community"
             }
         ],
         "location": "Worldwide",
@@ -688,12 +688,12 @@
         "url": "http://offenedaten.de/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Community",
-                "key": "Type"
+                "key": "Type",
+                "value": "Community"
             }
         ],
         "location": "Germany",
@@ -705,12 +705,12 @@
         "url": "http://opencolorado.org/",
         "facets": [
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             },
             {
-                "value": "Community",
-                "key": "Type"
+                "key": "Type",
+                "value": "Community"
             }
         ],
         "location": "Colorado, USA",
@@ -722,12 +722,12 @@
         "url": "http://www.opendatahub.it/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Community",
-                "key": "Type"
+                "key": "Type",
+                "value": "Community"
             }
         ],
         "location": "Italy",
@@ -739,12 +739,12 @@
         "url": "http://open-data.okfn.gr/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Community",
-                "key": "Type"
+                "key": "Type",
+                "value": "Community"
             }
         ],
         "location": "Greece",
@@ -756,12 +756,12 @@
         "url": "http://www.nosdonnees.fr/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Community",
-                "key": "Type"
+                "key": "Type",
+                "value": "Community"
             }
         ],
         "location": "France",
@@ -773,12 +773,12 @@
         "url": "http://hubofdata.ru/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Community",
-                "key": "Type"
+                "key": "Type",
+                "value": "Community"
             }
         ],
         "location": "Russia",
@@ -790,12 +790,12 @@
         "url": "http://datacatalogs.org/",
         "facets": [
             {
-                "value": "Worldwide",
-                "key": "Region"
+                "key": "Region",
+                "value": "Worldwide"
             },
             {
-                "value": "Community",
-                "key": "Type"
+                "key": "Type",
+                "value": "Community"
             }
         ],
         "location": "Worldwide",
@@ -807,16 +807,16 @@
         "url": "http://africaopendata.org/",
         "facets": [
             {
-                "value": "Featured",
-                "key": "Featured"
+                "key": "Featured",
+                "value": "Featured"
             },
             {
-                "value": "Africa",
-                "key": "Region"
+                "key": "Region",
+                "value": "Africa"
             },
             {
-                "value": "Community",
-                "key": "Type"
+                "key": "Type",
+                "value": "Community"
             }
         ],
         "location": "Africa",
@@ -828,12 +828,12 @@
         "url": "http://data.openva.com/",
         "facets": [
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Virginia, USA",
@@ -845,12 +845,12 @@
         "url": "http://data.codeforhouston.com/",
         "facets": [
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Houston, USA",
@@ -862,12 +862,12 @@
         "url": "http://datos.codeandomexico.org/",
         "facets": [
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Mexico",
@@ -879,12 +879,12 @@
         "url": "http://opendatadc.org/",
         "facets": [
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             },
             {
-                "value": "Community",
-                "key": "Type"
+                "key": "Type",
+                "value": "Community"
             }
         ],
         "location": "Washington DC, USA",
@@ -896,14 +896,14 @@
         "url": "http://datos.gob.mx/",
         "facets": [
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             },
             {
-                "value": "National Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "National Government"
             }
-            ],
+        ],
         "location": "Mexico",
         "id": "datos_gob_mx"
     },
@@ -913,12 +913,12 @@
         "url": "http://catalogue.datalocale.fr",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "France",
@@ -930,12 +930,12 @@
         "url": "http://data.gc.ca",
         "facets": [
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             },
             {
-                "value": "National Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "National Government"
             }
         ],
         "location": "Canada",
@@ -947,12 +947,12 @@
         "url": "http://opendatacanarias.es/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Canary Islands, Spain",
@@ -964,12 +964,12 @@
         "url": "http://data.edostate.gov.ng/",
         "facets": [
             {
-                "value": "Africa",
-                "key": "Region"
+                "key": "Region",
+                "value": "Africa"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Edo, Nigeria",
@@ -981,12 +981,12 @@
         "url": "http://datospublicos.gob.ar/",
         "facets": [
             {
-                "value": "South America",
-                "key": "Region"
+                "key": "Region",
+                "value": "South America"
             },
             {
-                "value": "National Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "National Government"
             }
         ],
         "location": "Argentina",
@@ -998,12 +998,12 @@
         "url": "http://dartportal.leeds.ac.uk/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Other Organizations",
-                "key": "Type"
+                "key": "Type",
+                "value": "Other Organizations"
             }
         ],
         "location": "Leeds, United Kingdom",
@@ -1015,12 +1015,12 @@
         "url": "http://bermuda.io/",
         "facets": [
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             },
             {
-                "value": "Other Organizations",
-                "key": "Type"
+                "key": "Type",
+                "value": "Other Organizations"
             }
         ],
         "location": "Bermuda",
@@ -1032,12 +1032,12 @@
         "url": "http://opendata.admin.ch/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "National Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "National Government"
             }
         ],
         "location": "Switzerland",
@@ -1049,12 +1049,12 @@
         "url": "http://datosabiertos.malaga.eu/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Malaga, Spain",
@@ -1066,12 +1066,12 @@
         "url": "http://data.kk.dk/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Copenhagen, Denmark",
@@ -1083,12 +1083,12 @@
         "url": "http://opendata.cmt.es/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Other Organizations",
-                "key": "Type"
+                "key": "Type",
+                "value": "Other Organizations"
             }
         ],
         "location": "Spain",
@@ -1100,12 +1100,12 @@
         "url": "http://dati.gov.it/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "National Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "National Government"
             }
         ],
         "location": "Italy",
@@ -1117,12 +1117,12 @@
         "url": "http://donnees.ville.montreal.qc.ca/",
         "facets": [
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Montr\u00e9al, Canada",
@@ -1134,12 +1134,12 @@
         "url": "http://data.glasgow.gov.uk/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Glasgow, Scotland, UK",
@@ -1151,12 +1151,12 @@
         "url": "http://dados.recife.pe.gov.br/",
         "facets": [
             {
-                "value": "South America",
-                "key": "Region"
+                "key": "Region",
+                "value": "South America"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Recife, Brazil",
@@ -1168,12 +1168,12 @@
         "url": "http://opendata.awt.be/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Wallonia, Belgium",
@@ -1185,12 +1185,12 @@
         "url": "http://opendata.hu/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Community",
-                "key": "Type"
+                "key": "Type",
+                "value": "Community"
             }
         ],
         "location": "Hungary",
@@ -1202,12 +1202,12 @@
         "url": "http://dati.trentino.it/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Trentino, Italy",
@@ -1219,12 +1219,12 @@
         "url": "http://data.gov.ro/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "National Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "National Government"
             }
         ],
         "location": "Romania",
@@ -1236,12 +1236,12 @@
         "url": "http://www.openumea.se/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Umea, Sweden",
@@ -1253,8 +1253,8 @@
         "url": "http://data.surrey.ca/",
         "facets": [
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             }
         ],
         "location": "Surrey, British Columbia, Canada",
@@ -1266,12 +1266,12 @@
         "url": "http://rotterdamopendata.nl/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Rotterdam, Netherlands",
@@ -1283,12 +1283,12 @@
         "url": "http://opendata.caceres.es/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "C\u00e1ceres, Spain",
@@ -1300,12 +1300,12 @@
         "url": "http://data.kk.dk/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Copenhagen, Denmark",
@@ -1317,12 +1317,12 @@
         "url": "http://www.odaa.dk/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Aarhus, Denmark",
@@ -1334,12 +1334,12 @@
         "url": "https://data.noaa.gov/dataset",
         "facets": [
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             },
             {
-                "value": "Other Organizations",
-                "key": "Type"
+                "key": "Type",
+                "value": "Other Organizations"
             }
         ],
         "location": "United States",
@@ -1351,12 +1351,12 @@
         "url": "http://data.ug/",
         "facets": [
             {
-                "value": "Africa",
-                "key": "Region"
+                "key": "Region",
+                "value": "Africa"
             },
             {
-                "value": "National Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "National Government"
             }
         ],
         "location": "Uganda",
@@ -1368,12 +1368,12 @@
         "url": "http://opendata.caceres.es/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "C\u00e1ceres, Spain",
@@ -1385,12 +1385,12 @@
         "url": "http://datapoa.com.br/",
         "facets": [
             {
-                "value": "South America",
-                "key": "Region"
+                "key": "Region",
+                "value": "South America"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Porto Alegre, RS, Brazil",
@@ -1402,12 +1402,12 @@
         "url": "http://dados.rs.gov.br/",
         "facets": [
             {
-                "value": "South America",
-                "key": "Region"
+                "key": "Region",
+                "value": "South America"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Rio Grande do Sul, Brazil",
@@ -1419,12 +1419,12 @@
         "url": "http://data.rio.rj.gov.br/",
         "facets": [
             {
-                "value": "South America",
-                "key": "Region"
+                "key": "Region",
+                "value": "South America"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Rio de Janeiro, RJ, Brazil",
@@ -1436,12 +1436,12 @@
         "url": "http://opendatagortynia.gr/",
         "facets": [
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             },
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             }
         ],
         "location": "Gortynia, Greece",
@@ -1453,12 +1453,12 @@
         "url": null,
         "facets": [
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             },
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             }
         ],
         "location": "Chicago, USA",
@@ -1470,12 +1470,12 @@
         "url": "http://donnees.ville.sherbrooke.qc.ca",
         "facets": [
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             },
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             }
         ],
         "location": "Canada",
@@ -1487,12 +1487,12 @@
         "url": "http://portal.openbelgium.be",
         "facets": [
             {
-                "value": "Community",
-                "key": "Type"
+                "key": "Type",
+                "value": "Community"
             },
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             }
         ],
         "location": "Belgium",
@@ -1504,12 +1504,12 @@
         "url": "http://datosabiertos.ec",
         "facets": [
             {
-                "value": "Other Organizations",
-                "key": "Type"
+                "key": "Type",
+                "value": "Other Organizations"
             },
             {
-                "value": "South America",
-                "key": "Region"
+                "key": "Region",
+                "value": "South America"
             }
         ],
         "location": "Ecuador",
@@ -1521,12 +1521,12 @@
         "url": "http://www.offene-daten.me",
         "facets": [
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             },
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             }
         ],
         "location": "Mettmann, Germany",
@@ -1538,12 +1538,12 @@
         "url": "http://udct-data.aigid.jp",
         "facets": [
             {
-                "value": "Academic",
-                "key": "Type"
+                "key": "Type",
+                "value": "Academic"
             },
             {
-                "value": "Asia",
-                "key": "Region"
+                "key": "Region",
+                "value": "Asia"
             }
         ],
         "location": "Tokyo, Japan",
@@ -1555,12 +1555,12 @@
         "url": "http://data.grcity.us",
         "facets": [
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             },
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             }
         ],
         "location": "Grand Rapids, MI",
@@ -1572,12 +1572,12 @@
         "url": "http://cities.opendatahub.gr",
         "facets": [
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             },
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             }
         ],
         "location": "Greece",
@@ -1589,12 +1589,12 @@
         "url": "http://opendatahub.gr",
         "facets": [
             {
-                "value": "Community",
-                "key": "Type"
+                "key": "Type",
+                "value": "Community"
             },
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             }
         ],
         "location": "Greece",
@@ -1606,12 +1606,12 @@
         "url": "http://www.civicdata.io",
         "facets": [
             {
-                "value": "Community",
-                "key": "Type"
+                "key": "Type",
+                "value": "Community"
             },
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             }
         ],
         "location": "United States",
@@ -1623,12 +1623,12 @@
         "url": "http://ckan.gsi.go.jp",
         "facets": [
             {
-                "value": "National Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "National Government"
             },
             {
-                "value": "Asia",
-                "key": "Region"
+                "key": "Region",
+                "value": "Asia"
             }
         ],
         "location": "Japan",
@@ -1640,12 +1640,12 @@
         "url": "http://oppnadata.se",
         "facets": [
             {
-                "value": "National Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "National Government"
             },
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             }
         ],
         "location": "Sweden",
@@ -1657,12 +1657,12 @@
         "url": "http://data.hdx.rwlabs.org",
         "facets": [
             {
-                "value": "Community",
-                "key": "Type"
+                "key": "Type",
+                "value": "Community"
             },
             {
-                "value": "None",
-                "key": "Region"
+                "key": "Region",
+                "value": "None"
             }
         ],
         "location": "",
@@ -1674,12 +1674,12 @@
         "url": "http://datamx.io",
         "facets": [
             {
-                "value": "Community",
-                "key": "Type"
+                "key": "Type",
+                "value": "Community"
             },
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             }
         ],
         "location": "Mexico",
@@ -1691,12 +1691,12 @@
         "url": "http://dataforjapan.org",
         "facets": [
             {
-                "value": "Community",
-                "key": "Type"
+                "key": "Type",
+                "value": "Community"
             },
             {
-                "value": "Asia",
-                "key": "Region"
+                "key": "Region",
+                "value": "Asia"
             }
         ],
         "location": "Japan",
@@ -1708,12 +1708,12 @@
         "url": "http://data.yokohamaopendata.jp",
         "facets": [
             {
-                "value": "Community",
-                "key": "Type"
+                "key": "Type",
+                "value": "Community"
             },
             {
-                "value": "Asia",
-                "key": "Region"
+                "key": "Region",
+                "value": "Asia"
             }
         ],
         "location": "Yokohama, Japan",
@@ -1725,12 +1725,12 @@
         "url": "http://datameti.go.jp",
         "facets": [
             {
-                "value": "National Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "National Government"
             },
             {
-                "value": "Asia",
-                "key": "Region"
+                "key": "Region",
+                "value": "Asia"
             }
         ],
         "location": "Japan",
@@ -1742,12 +1742,12 @@
         "url": "http://www.data.go.jp",
         "facets": [
             {
-                "value": "National Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "National Government"
             },
             {
-                "value": "Asia",
-                "key": "Region"
+                "key": "Region",
+                "value": "Asia"
             }
         ],
         "location": "Japan",
@@ -1759,12 +1759,12 @@
         "url": "http://ckan.sabae.jrrk.org",
         "facets": [
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             },
             {
-                "value": "Asia",
-                "key": "Region"
+                "key": "Region",
+                "value": "Asia"
             }
         ],
         "location": "Sabae, Japan",
@@ -1776,12 +1776,12 @@
         "url": "http://opendata.lisra.jp",
         "facets": [
             {
-                "value": "Other Organizations",
-                "key": "Type"
+                "key": "Type",
+                "value": "Other Organizations"
             },
             {
-                "value": "Asia",
-                "key": "Region"
+                "key": "Region",
+                "value": "Asia"
             }
         ],
         "location": "Japan",
@@ -1793,12 +1793,12 @@
         "url": "http://www.amsterdamopendata.nl",
         "facets": [
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             },
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             }
         ],
         "location": "Amsterdam, The Netherlands",
@@ -1810,12 +1810,12 @@
         "url": "http://gisdata.mn.gov",
         "facets": [
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             },
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             }
         ],
         "location": "Minnesota",
@@ -1827,12 +1827,12 @@
         "url": "http://data.salzburgerland.com",
         "facets": [
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             },
             {
-                "value": "Australasia",
-                "key": "Region"
+                "key": "Region",
+                "value": "Australasia"
             }
         ],
         "location": "Australia",
@@ -1844,12 +1844,12 @@
         "url": "http://geothermaldata.org",
         "facets": [
             {
-                "value": "Other Organizations",
-                "key": "Type"
+                "key": "Type",
+                "value": "Other Organizations"
             },
             {
-                "value": "North America",
-                "key": "Region"
+                "key": "Region",
+                "value": "North America"
             }
         ],
         "location": "United States",
@@ -1861,15 +1861,151 @@
         "url": "http://annuario.comune.fi.it",
         "facets": [
             {
-                "value": "Local / Regional Government",
-                "key": "Type"
+                "key": "Type",
+                "value": "Local / Regional Government"
             },
             {
-                "value": "Europe",
-                "key": "Region"
+                "key": "Region",
+                "value": "Europe"
             }
         ],
         "location": "Italy",
         "id": "annuario_comune_fi_it"
+    },
+    {
+        "description": "La Iniciativa de Datos Abiertos Vinculados del Gobierno de Misiones busca aumentar el acceso y uso p\u00fablico a conjuntos de datos de valor, que sean legibles por m\u00e1quinas, y hayan sido generados por el Poder Ejecutivo del Gobierno de Misiones. ",
+        "title": "Portal de Datos Abiertos del Gobierno de Misiones",
+        "url": "http://www.datos.misiones.gov.ar",
+        "facets": [
+            {
+                "value": "South America",
+                "key": "Region"
+            },
+            {
+                "value": "Local / Regional Government",
+                "key": "Type"
+            }
+        ],
+        "location": "Posadas, Argentina",
+        "id": "www_datos_misiones_gov_ar"
+    },
+    {
+        "description": "The Energy Data eXchange (EDX) was developed and is maintained by the Department of Energy (DOE) National Energy Technology Laboratory (NETL) to support internal and external coordination and collaboration of fossil energy research. EDX not only provides access to internal and external datasets, but also provides the tools to interact with that data. The CKAN platform was chosen to foster collaboration with other CKAN sites (i.e Data.gov).",
+        "title": "Energy Data eXchange",
+        "url": "https://edx.netl.doe.gov",
+        "facets": [
+            {
+                "value": "North America",
+                "key": "Region"
+            },
+            {
+                "value": "National Government",
+                "key": "Type"
+            }
+        ],
+        "location": "United States",
+        "id": "edx_netl_doe_gov"
+    },
+    {
+        "description": "The data.bris Research Data Repository is maintained by the University of Bristol Research Data Service. The Service is a Library-led collaboration with IT Services and Research and Enterprise Development.\n\nThe data.bris Research Data Repository is an online digital repository of multi-disciplinary research datasets produced at the University of Bristol. Data published through the repository are all openly available under a Non-Commercial Government License for public sector information, and each deposit is assigned a unique Digital Object Identifier (DOI).",
+        "title": "data.bris Research Data Repository",
+        "url": "http://data.bris.ac.uk/data",
+        "facets": [
+            {
+                "value": "Europe",
+                "key": "Region"
+            },
+            {
+                "value": "Academic",
+                "key": "Type"
+            }
+        ],
+        "location": "Bristol, United Kingdom",
+        "id": "data_bris_ac_uk_data"
+    },
+    {
+        "description": "The Joint Research Centre (JRC) of the European Commission is coordinating an initiative aiming to provide scientific support to the European Union Strategy for the Danube Region (EUSDR) focusing on four vertical priorities: environment protection, irrigation and agricultural development, navigability and energy production. As a transversal priority, the initiative also aims to support the development of Smart Specialisation strategies for innovation in the Danube Region.\n\nThe initiative was launched in close cooperation with key scientific partners of the Danube Region. Through an integrated approach relying on different flagship clusters, the JRC and its scientific partners will gather essential scientific expertise and data to help decision-makers and other stakeholders of the Danube Region to identify the policy measures and actions needed for the implementation of the EU Strategy of the Danube Region.",
+        "title": "Danube Reference Data and Service Infrastructure",
+        "url": "http://drdsi.jrc.ec.europa.eu",
+        "facets": [
+            {
+                "value": "Europe",
+                "key": "Region"
+            },
+            {
+                "value": "Community",
+                "key": "Type"
+            }
+        ],
+        "location": "EU",
+        "id": "drdsi_jrc_ec_europa_eu"
+    },
+    {
+        "description": "Open data initiative and platform for Wollongong and the greater Illawarra region in Australia (about an hour south of Sydney)",
+        "title": "Gong.io",
+        "url": "http://gong.io",
+        "facets": [
+            {
+                "value": "Australasia",
+                "key": "Region"
+            },
+            {
+                "value": "Community",
+                "key": "Type"
+            }
+        ],
+        "location": "Wollongong, Australia",
+        "id": "gong_io"
+    },
+    {
+        "description": "OpenDataReno is a place to exchange data and information useful to the residents of the greater Reno/Sparks/Washoe County area.",
+        "title": "OpenDataReno",
+        "url": "http://opendatareno.org",
+        "facets": [
+            {
+                "value": "North America",
+                "key": "Region"
+            },
+            {
+                "value": "Community",
+                "key": "Type"
+            }
+        ],
+        "location": "Reno, NV, USA",
+        "id": "opendatareno_org"
+    },
+    {
+        "description": "Ireland's national open data portal was launched in July 2014. It is operated by the Department of Public Expenditure and Reform.",
+        "title": "data.gov.ie",
+        "url": "http://data.gov.ie",
+        "facets": [
+            {
+                "value": "Europe",
+                "key": "Region"
+            },
+            {
+                "value": "National Government",
+                "key": "Type"
+            }
+        ],
+        "location": "Ireland",
+        "id": "data_gov_ie"
+    },
+    {
+        "description": "http://data.tainan.gov.tw is the first running open data platform in Taiwan to have implemented CKAN.",
+        "title": "Taipei City Open Data",
+        "url": "http://data.tainan.gov.tw",
+        "facets": [
+            {
+                "value": "Asia",
+                "key": "Region"
+            },
+            {
+                "value": "Local / Regional Government",
+                "key": "Type"
+            }
+        ],
+        "location": "Tainan, Taiwan",
+        "id": "data_tainan_gov_tw"
     }
 ]
