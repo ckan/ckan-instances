@@ -1448,23 +1448,6 @@
         "id": "open_data_gortynia_gr"
     },
     {
-        "description": "We are developing the site to provide easier access to our agency data products.  This will replace the ftp site and a number of downloads available from our main website www.cmap.illinois.gov",
-        "title": "opendata.cmap.illinois.gov",
-        "url": null,
-        "facets": [
-            {
-                "key": "Type",
-                "value": "Local / Regional Government"
-            },
-            {
-                "key": "Region",
-                "value": "North America"
-            }
-        ],
-        "location": "Chicago, USA",
-        "id": "opendata_cmap_illinois_gov"
-    },
-    {
         "description": "",
         "title": "Sherbrooke Open Data",
         "url": "http://donnees.ville.sherbrooke.qc.ca",
