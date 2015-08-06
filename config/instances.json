@@ -2162,23 +2162,6 @@
         "id": "datahub_cmap_illinois_gov"
     },
     {
-        "description": "Open data portal of the Government of the State of Alagoas.",
-        "title": "Alagoas em Dados e Informa\u00e7\u00f5es",
-        "url": "http://dados.al.gov.br",
-        "facets": [
-            {
-                "value": "South America",
-                "key": "Region"
-            },
-            {
-                "value": "Local / Regional Government",
-                "key": "Type"
-            }
-        ],
-        "location": "Brazil",
-        "id": "dados_al_gov_br"
-    },
-    {
         "description": "",
         "title": "Estonian Open Data portal",
         "url": "http://opendata.riik.ee",
