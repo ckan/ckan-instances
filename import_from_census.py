@@ -70,11 +70,13 @@ def add_new_instances_from_census(instances_file='config/instances.json',
     instances_titles = [i['title'].encode('utf-8').strip() for i in instances]
 
     missing_instances = []
+    done_urls = []
     for instance in census_instances:
 
         url = normalize_url(instance['URL'])
 
         if (url not in instances_urls
+                and url not in done_urls
                 and instance['Site Name'].strip() not in instances_titles
                 and instance['CKAN.org Instances Page'] == 'Yes'):
 
@@ -99,7 +101,9 @@ def add_new_instances_from_census(instances_file='config/instances.json',
                 output_path = 'images/instance/{0}.png'.format(instance_id)
                 get_screenshot(url, output_path)
 
+            done_urls.append(new_instance['url'])
             missing_instances.append(new_instance)
+            print 'Added instance {0}'.format(new_instance['url'])
 
     if append:
         instances.extend(missing_instances)
