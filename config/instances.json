@@ -2230,23 +2230,6 @@
         "id": "opendata_aachen_de"
     },
     {
-        "description": "Open Data portal at http://dados.ima.sp.gov.br aims at disclosing transparency information to enhance accountability in the context of Information Technology company sponsored by Campinas Municipality.",
-        "title": "Dados Abertos IMA",
-        "url": "http://dados.ima.sp.gov.br",
-        "facets": [
-            {
-                "value": "South America",
-                "key": "Region"
-            },
-            {
-                "value": "Local / Regional Government",
-                "key": "Type"
-            }
-        ],
-        "location": "Brazil",
-        "id": "dados_ima_sp_gov_br"
-    },
-    {
         "description": "Taijiang Research Data Repository is a research data repository for the humanities and areas studies in Taijiang Inland Sea Area, a region in Tainan City in Southern Taiwan.",
         "title": "Taijiang Research Data Repository",
         "url": "http://taijiang.tw",
