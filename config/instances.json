@@ -2198,7 +2198,7 @@
     {
         "description": "The Data.Vic portal provides open data infrastructure to agencies within the whole of Victorian Government. It allows for a three tiered publishing process, developed by Link Digital.",
         "title": "Data.vic",
-        "url": "http://data.vic.gov.au",
+        "url": "http://data.vic.gov.au/data",
         "facets": [
             {
                 "key": "Region",
