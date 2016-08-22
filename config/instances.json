@@ -69,23 +69,6 @@
         "id": "data_overheid_nl"
     },
     {
-        "description": "The Norwegian government\u2019s open data portal, launched in December 2010, includes data from its company register, leading the OpenCorporates blog to put Norway at the top of its Access to Company Data scoreboard.",
-        "title": "data.norge.no",
-        "url": "http://data.norge.no",
-        "facets": [
-            {
-                "key": "Region",
-                "value": "Europe"
-            },
-            {
-                "key": "Type",
-                "value": "National Government"
-            }
-        ],
-        "location": "Norway",
-        "id": "data_norge_no"
-    },
-    {
         "description": "The Slovak open data portal was created under the Initiative for Open Governance, which aims to improve governance through increased transparency, efficiency and accountability. It was launched in 2013.",
         "title": "data.gov.sk",
         "url": "http://data.gov.sk",
