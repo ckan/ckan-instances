@@ -1401,7 +1401,7 @@
         "id": "dados_rs_gov_br"
     },
     {
-        "description": "Portal for the brazilian state Rio Grande do Sul. Using CKAN 2.2.",
+        "description": "Portal for the brazilian state Rio de Janeiro. Using CKAN 2.2.",
         "title": "Data.Rio",
         "url": "http://data.rio.rj.gov.br/",
         "facets": [
