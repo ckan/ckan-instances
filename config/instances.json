@@ -2575,4 +2575,21 @@
         "location": "Europe",
         "id": "europeandataportal_eu"
     }
+    {
+        "description": "",
+        "title": "Open Data Burkina Faso",
+        "url": "http://data.gov.bf",
+        "facets": [
+            {
+                "value": "Africa",
+                "key": "Region"
+            },
+            {
+                "value": "National Government",
+                "key": "Type"
+            }
+        ],
+        "location": "Burkina Faso",
+        "id": "data_gov_bf"
+    }
 ]
