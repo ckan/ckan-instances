@@ -721,23 +721,6 @@
         "id": "www_opendatahub_it"
     },
     {
-        "description": "The Greek Open Data Hub is a project run by the Open Knowledge Foundation Greece, including a CKAN data repository and other tools.",
-        "title": "Greek Open Data Hub",
-        "url": "http://open-data.okfn.gr/",
-        "facets": [
-            {
-                "key": "Region",
-                "value": "Europe"
-            },
-            {
-                "key": "Type",
-                "value": "Community"
-            }
-        ],
-        "location": "Greece",
-        "id": "open_data_okfn_gr"
-    },
-    {
         "description": "A community-run data portal for France.",
         "title": "NosDonn\u00e9es.fr",
         "url": "http://www.nosdonnees.fr/",
@@ -1554,7 +1537,7 @@
         "id": "cities_opendatahub_gr"
     },
     {
-        "description": "http://open-data.okfn.gr/",
+        "description": "The Greek Open Data Hub is a project run by the Open Knowledge Foundation Greece, including a CKAN data repository and other tools.",
         "title": "Greek Open Data Hub",
         "url": "http://opendatahub.gr",
         "facets": [
