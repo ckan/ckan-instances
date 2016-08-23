@@ -829,7 +829,7 @@
     {
         "description": "The Houston Data Portal is a project of Code for Houston, a citizen's initiative of programmers in Houston, Texas, aiming to improve the city.",
         "title": "Houston Data Portal",
-        "url": "http://data.codeforhouston.com/",
+        "url": "http://data.ohouston.org/",
         "facets": [
             {
                 "key": "Region",
