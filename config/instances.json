@@ -2557,5 +2557,22 @@
         ],
         "location": "Brazil",
         "id": "dados_prefeitura_sp_gov_br"
+    },
+    {
+        "description": "",
+        "title": "European Data Portal",
+        "url": "http://www.europeandataportal.eu/data",
+        "facets": [
+            {
+                "value": "Europe",
+                "key": "Region"
+            },
+            {
+                "value": "Regional Government",
+                "key": "Type"
+            }
+        ],
+        "location": "Europe",
+        "id": "europeandataportal_eu"
     }
 ]
