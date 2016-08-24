@@ -581,23 +581,6 @@
         "id": "datameti_go_jp_data"
     },
     {
-        "description": "HealthData.gov is the Open Data portal of the US Department of Health and Human Services (HHS), released under the Health Data Initiative. It is built on a CKAN portal.",
-        "title": "HealthData.gov",
-        "url": "http://healthdata.gov/",
-        "facets": [
-            {
-                "key": "Region",
-                "value": "North America"
-            },
-            {
-                "key": "Type",
-                "value": "Other Organizations"
-            }
-        ],
-        "location": "USA",
-        "id": "healthdata_gov"
-    },
-    {
         "description": "The International Aid Transparency Initiative has a data portal where it publishes an index of data on international development activities, with data from donor organisations and countries.",
         "title": "The International Aid Transparency Initiative",
         "url": "http://iatiregistry.org",
