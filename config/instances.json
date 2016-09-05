@@ -547,23 +547,6 @@
         "id": "publicdata_eu"
     },
     {
-        "description": "Open Data Meti is the open data portal of the Japanese Ministry of Economy, Trade and Industry.",
-        "title": "METI",
-        "url": "http://datameti.go.jp/data/",
-        "facets": [
-            {
-                "key": "Region",
-                "value": "Asia"
-            },
-            {
-                "key": "Type",
-                "value": "Other Organizations"
-            }
-        ],
-        "location": "Japan",
-        "id": "datameti_go_jp_data"
-    },
-    {
         "description": "The International Aid Transparency Initiative has a data portal where it publishes an index of data on international development activities, with data from donor organisations and countries.",
         "title": "The International Aid Transparency Initiative",
         "url": "http://iatiregistry.org",
