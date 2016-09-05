@@ -1282,23 +1282,6 @@
         "id": "data_ug"
     },
     {
-        "description": "Opendata C\u00e1ceres was launched in 2014 by the city government of C\u00e1ceres. This portal aims to share the official data of the city to their citizens, and especially to developers. That is why all the datasets are ranked as 5 stars by Tim Berners-Lee's ranking.",
-        "title": "Opendata C\u00e1ceres",
-        "url": "http://opendata.caceres.es/",
-        "facets": [
-            {
-                "key": "Region",
-                "value": "Europe"
-            },
-            {
-                "key": "Type",
-                "value": "Local / Regional Government"
-            }
-        ],
-        "location": "C\u00e1ceres, Spain",
-        "id": "opendata_caceres_es"
-    },
-    {
         "description": "Portal for the city of Porto Alegre, capital of the Rio Grande do Sul state in Brazil. Using CKAN 2.1",
         "title": "DataPOA",
         "url": "http://datapoa.com.br/",
