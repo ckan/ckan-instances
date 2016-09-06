@@ -338,7 +338,7 @@
                 "value": "Local / Regional Government"
             }
         ],
-        "location": "Hamburg, Germany",
+        "location": "Rheinland-Pfalz, Germany",
         "id": "www_daten_rlp_de"
     },
     {
@@ -965,7 +965,7 @@
     {
         "description": "The \u201cOpen Government Data at the Confederation\u201d project is a joint undertaking by the Swiss Federal Archives and their project partners to create a central pilot portal providing access to open data from the Swiss authorities.",
         "title": "Swiss Open Government Data",
-        "url": "http://opendata.admin.ch/",
+        "url": "https://opendata.swiss/",
         "facets": [
             {
                 "key": "Region",
@@ -1363,7 +1363,7 @@
                 "value": "North America"
             }
         ],
-        "location": "Canada",
+        "location": "Sherbrooke, Canada",
         "id": "donnees_ville_sherbrooke_qc_ca"
     },
     {
@@ -1862,7 +1862,7 @@
     },
     {
         "description": "http://data.tainan.gov.tw is the first running open data platform in Taiwan to have implemented CKAN.",
-        "title": "Taipei City Open Data",
+        "title": "Tainan City Open Data",
         "url": "http://data.tainan.gov.tw",
         "facets": [
             {
