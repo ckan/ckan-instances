@@ -1810,23 +1810,6 @@
         "id": "drdsi_jrc_ec_europa_eu"
     },
     {
-        "description": "Open data initiative and platform for Wollongong and the greater Illawarra region in Australia (about an hour south of Sydney)",
-        "title": "Gong.io",
-        "url": "http://gong.io",
-        "facets": [
-            {
-                "value": "Australasia",
-                "key": "Region"
-            },
-            {
-                "value": "Community",
-                "key": "Type"
-            }
-        ],
-        "location": "Wollongong, Australia",
-        "id": "gong_io"
-    },
-    {
         "description": "OpenDataReno is a place to exchange data and information useful to the residents of the greater Reno/Sparks/Washoe County area.",
         "title": "OpenDataReno",
         "url": "http://opendatareno.org",
