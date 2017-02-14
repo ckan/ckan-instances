@@ -130,7 +130,7 @@
 			$('#instances').packery();
 
 			if (!is_local) {
-				window.top.location.href = url + '#' + $('body').outerHeight();
+				//window.top.location.href = url + '#' + $('body').outerHeight();
 			}
 
 		}
