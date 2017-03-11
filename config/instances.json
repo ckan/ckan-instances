@@ -2506,5 +2506,22 @@
         ],
         "location": "Burkina Faso",
         "id": "data_gov_bf"
+    },
+    {
+        "description": "DataRefuge helps to build refuge for federal data and supports climate and environmental research and advocacy. We are committed to fact-based arguments. DataRefuge preserves the facts we need at a time of ongoing climate change.",
+        "title": "Data Refuge",
+        "url": "https://www.datarefuge.org",
+        "facets": [
+            {
+                "value": "North America",
+                "key": "Region"
+            },
+            {
+                "value": "Community",
+                "key": "Type"
+            }
+        ],
+        "location": "United States",
+        "id": "datarefuge_org"
     }
 ]
