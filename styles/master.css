@@ -83,6 +83,7 @@ html {
 body {
   margin: 0;
 }
+
 /* ==========================================================================
    Links
    ========================================================================== */
@@ -364,14 +365,18 @@ table {
   border-spacing: 0;
 }
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  background-color: #ffffff;
-  font-size: 14px;
-  line-height: 1.4;
+  font-family:'source_sans_proregular','Helvetica Neue',Arial,Helvetica,Geneva,sans-serif;
+  font-size:14px;
+  color:#222;
+  font-weight:400;
+  line-height:22px;
+  letter-spacing:normal;
+  background:#F9F9F9;
+
 }
 #main {
   position: relative;
-  width: 942px;
+  width: 742px;
   margin: 10px auto;
 }
 #loading {
@@ -384,7 +389,7 @@ body {
   padding: 5px 0;
   text-align: center;
   color: #ffffff;
-  background-color: #5090b7;
+  background-color: #c0392b;
   font-weight: bold;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -450,7 +455,7 @@ body {
 }
 #facets .facet a.root:hover {
   color: #ffffff;
-  background-color: #5090b7;
+  background-color: #c0392b;
 }
 #facets .facet ul {
   display: none;
@@ -472,7 +477,7 @@ body {
 }
 #facets .facet ul li a {
   display: block;
-  color: #5090b7;
+  color: #c0392b;
   text-decoration: none;
   padding: 5px 10px;
   white-space: nowrap;
@@ -480,11 +485,11 @@ body {
 #facets .facet ul li a.active,
 #facets .facet ul li a:hover {
   color: #ffffff;
-  background-color: #5090b7;
+  background-color: #c0392b;
 }
 #facets .facet.active a.root {
   color: #ffffff;
-  background-color: #5090b7;
+  background-color: #c0392b;
 }
 #facets .facet.active a.root .icon-chevron-up {
   display: inline;
@@ -497,18 +502,18 @@ body {
 }
 #facets .facet.selected a.root {
   color: #ffffff;
-  background-color: #5090b7;
+  background-color: #c0392b;
 }
 #facets.faceting .selected a.root {
   color: #ffffff;
-  background-color: #5090b7;
+  background-color: #c0392b;
 }
 #instances .instance {
   position: relative;
   float: left;
   padding: 10px;
   margin: 10px;
-  width: 274px;
+  width: 331px;
   color: #444444;
   background-color: #ffffff;
   -webkit-border-radius: 4px;
@@ -535,6 +540,8 @@ body {
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
+  margin-left: auto;
+  margin-right: auto;
 }
 #instances .instance .meta {
   color: #919191;
@@ -560,9 +567,9 @@ body {
 }
 #instances .instance .read:hover {
   border-color: #2f5972;
-  -webkit-box-shadow: 0 0 0 4px #5090b7;
-  -moz-box-shadow: 0 0 0 4px #5090b7;
-  box-shadow: 0 0 0 4px #5090b7;
+  -webkit-box-shadow: 0 0 0 4px #c0392b;
+  -moz-box-shadow: 0 0 0 4px #c0392b;
+  box-shadow: 0 0 0 4px #c0392b;
 }
 #instances .instance.fade {
   opacity: 0.33;
