@@ -2525,23 +2525,6 @@
         "id": "datarefuge_org"
     },
     {
-        "description": "Open data initiative and platform for Wollongong and the greater Illawarra region in Australia (about an hour south of Sydney)",
-        "title": "Gong.io",
-        "url": "http://gong.io",
-        "facets": [
-            {
-                "value": "Australasia",
-                "key": "Region"
-            },
-            {
-                "value": "Community",
-                "key": "Type"
-            }
-        ],
-        "location": "Wollongong, Australia",
-        "id": "gong_io"
-    },
-    {
         "description": "Fortaleza Dados Abertos is an open portal developed by CITINOVA foundation of  City Hall, that has as main objective to provide public data and information related to the city of Fortaleza, Cear\u00e1. The data is published in open data standart that allows use  by and for anyone. Also, this portal can be used as a tool for society to think and promote innovation and creativity to improve public services and the life in the city.",
         "title": "Fortaleza Open Data",
         "url": "http://dados.fortaleza.ce.gov.br/catalogo/dataset",
@@ -3067,23 +3050,6 @@
         ],
         "location": "Brazil",
         "id": "magonia_ibict_br_ckan"
-    },
-    {
-        "description": "A.D.E.R.E. - Asociaci\u00f3n de Entes Reguladores El\u00e9ctricos",
-        "title": "A.D.E.R.E. - Asociaci\u00f3n de Entes Reguladores El\u00e9ctricos",
-        "url": "http://www.adere.org.ar/adere",
-        "facets": [
-            {
-                "value": "",
-                "key": "Region"
-            },
-            {
-                "value": "Other Organizations",
-                "key": "Type"
-            }
-        ],
-        "location": "argentina",
-        "id": "www_adere_org_ar_adere"
     },
     {
         "description": "Illinois Open Data Portal is managed by Illinois.gov and lets you find data across state, find facts about the state, lets you create maps and graphs, and lets you freely download the data for your own analysis. Many of these datasets are updated daily, and some even more often.  We are running on CKAN 2.6.3 and looking to add more streamlined functionality to the platform.",
