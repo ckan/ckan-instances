@@ -11,7 +11,6 @@ Script for importing instances from the census
 
 TODO: Automate all this stuff!
 
-
 If you have push rights on this repo, you can import instances from a CSV export of the
 Census Google Spreadsheet using the `import_from_census.py` script.
 
