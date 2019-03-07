@@ -3373,5 +3373,39 @@
         ],
         "location": "Hannover, Germany",
         "id": "data_uni-hannover_de"
+    },
+    {
+        "description": "A.D.E.R.E. - Asociaci\u00f3n de Entes Reguladores El\u00e9ctricos",
+        "title": "A.D.E.R.E. - Asociaci\u00f3n de Entes Reguladores El\u00e9ctricos",
+        "url": "http://www.adere.org.ar/adere",
+        "facets": [
+            {
+                "key": "Region",
+                "value": ""
+            },
+            {
+                "key": "Type",
+                "value": "Other Organizations"
+            }
+        ],
+        "location": "argentina",
+        "id": "www_adere_org_ar_adere"
+    },
+    {
+        "description": "Open Data BCN is the Barcelona\u2019s City Council open data Portal. \nThe initiative started in 2011 and  in February 2017 launched a renewed portal with CKAN and Drupal aligned with the roadmap Barcelona Digital City Plan towards\ntechnological sovereignty and  with the  main goal  to provide and facilitate the access and reusability of local goverment data to all users.\n",
+        "title": "Open Data BCN",
+        "url": "http://barcelona.cat/opendata",
+        "facets": [
+            {
+                "key": "Region",
+                "value": "Europe"
+            },
+            {
+                "key": "Type",
+                "value": "Local / Regional Government"
+            }
+        ],
+        "location": "Barcelona ",
+        "id": "barcelona_cat_opendata"
     }
 ]
